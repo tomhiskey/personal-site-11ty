@@ -1,16 +1,16 @@
 {
-  "title": "Tom Hiskey's website",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Tom Hiskey",
+  "url": "https://www.tomhiskey.co.uk/",
+  "description": "Digital product designer",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Digital product designer",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "https://myurl.com/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "url": "https://www.tomhiskey.co.uk/feed/feed.xml",
+    "id": "https://www.tomhiskey.co.uk/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Tom Hiskey",
+    "email": "tomhiskey@gmail.com"
   }
 }
