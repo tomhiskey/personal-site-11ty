@@ -9,9 +9,9 @@
   --white: #fff;
   --offwhite: #fefefe;
 }
-* {
-  /* box-sizing: border-box; */
-}
+/* * {
+  box-sizing: border-box;
+} */
 @import url('https://fonts.googleapis.com/css?family=Vollkorn:400,600&display=swap|Open+Sans');
 html,
 body {
@@ -59,9 +59,9 @@ a[href] {
 a[href]:visited {
   color: var(--navy);
 }
-main {
-  /* padding: 1rem; */
-}
+/* main {
+  padding: 1rem; 
+} */
 main :first-child {
   margin-top: 0;
 }
@@ -289,6 +289,8 @@ pre {
 }
 .postlist-date {
   word-spacing: -0.5px;
+  display: block;
+  padding: 0.25em 0.1875em;
 }
 .postlist-link {
   display: inline-block;
@@ -302,6 +304,7 @@ pre {
   font-weight: 700;
 }
 
+ol { display: inline; }
 
 /* Tags */
 .tag {
@@ -392,6 +395,7 @@ footer {
   /* color: #fff; */
   border-radius: 5px;
   padding: 20px;
+  display: inline-block; /* I added this afterwards */
 }
 
 .box:hover {
