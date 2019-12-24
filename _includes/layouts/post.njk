@@ -8,6 +8,7 @@ templateClass: tmpl-post
         
         <div></div>
         <div>
+{% if date %}🗓 <div class="date">{{ date | readableDate }}</div>{% else %} {% endif %}
 {{ content | safe }}
 
 <p><a href="{{ '/' | url }}">← Home</a></p>

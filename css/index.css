@@ -1,7 +1,7 @@
 :root {
   --red: #C5004A;
-  --darkred: #7F0036;
   --lightgray: #e0e0e0;
+  --mediumgray: #a3a3a3;
   --gray: #C0C0C0;
   --darkgray: #262d2d;
   --navy: #17050F;
@@ -322,6 +322,13 @@ pre {
 }
 
 ol { display: inline; }
+
+.date { 
+  font-style: italic;
+  display: inline;
+  border: 0px;
+  border-left: 0px solid var(--mediumgray);
+}
 
 /* Tags */
 .tag {

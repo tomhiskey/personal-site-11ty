@@ -5,16 +5,19 @@ date: 2018-08-09
 layout: layouts/post.njk
 ---
 
-Many businesses suffer from the ‘it seemed like a good idea at the time’ syndrome, where software or features are built on the suggestion of an individual or two. Time and money is spent on implementation, but often the results go by the wayside: never finished for lack of clarity of vision; never used for lack of user interest.
+MMany businesses suffer from the ‘it seemed like a good idea at the time’ syndrome, where software or features are built on the suggestion of an individual or two. Time and money is spent on implementation, but often the results go by the wayside: never finished for lack of clarity of vision; never used for lack of user interest.
 
 UX methodology avoids ‘ISLAGIATT’ projects.
 
 It starts with the tenet that a business doesn’t necessarily know what its users want. But more than that: users don’t necessarily want what they ask for. That’s not as counter-intuitive as it might seem: though UX is firmly rooted in user evidence, that’s not synonymous with what they say they want.
 
-My favourite example of this is an experiment run by Petter Johansson, a cognitive science researcher at Lund University. As explained by Petter and his colleague Lars Hall, two cards of same-gender faces were placed in front of participants. They were asked which face they found more attractive. Unbeknownst to participants, the moderator was a magician who, with slight of hand, presented the participants with the face they rejected. They were then asked to explain their choice.
+My favourite example of this is an experiment run by Petter Johansson, a cognitive science researcher at Lund University. [As explained by Petter and his colleague Lars Hall](https://explorable.com/choice-blindness), two cards of same-gender faces were placed in front of participants. They were asked which face they found more attractive. Unbeknownst to participants, the moderator was a magician who, with slight of hand, presented the participants with the face they rejected. They were then asked to explain their choice.
 
-Choice blindness face card experiment
+<div id="attachment_873" style="width: 465px" class="wp-caption alignleft">[![Choice blindness face card experiment](http://www.tomhiskey.co.uk/wp-content/uploads/2016/07/Choice-blindness-face-card-experiment.jpg)](http://www.tomhiskey.co.uk/wp-content/uploads/2016/07/Choice-blindness-face-card-experiment.jpg)
+
 The choice blindness experiment is a useful lesson for UX practitioners
+
+</div>
 
 75% of the time, participants were blind to the mismatch. Furthermore, the majority proceeded to give detailed reasons why they choose that face over the other, one remarking “I prefer blondes” (he’d chosen a brunette). Johansson calls this ‘choice blindness’.
 
