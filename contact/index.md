@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
-title: Contact me
+title: Contact me 📣
 templateClass: tmpl-post
 eleventyNavigation:
   key: Contact
   order: 5
 ---
 
-Hi there! I'm Tom Hiskey, a digital product designer based in York, UK. 
+Hi there! I'm Tom Hiskey, a product / UX designer based in York, UK. 
 
 Feel free to drop me a line...
 

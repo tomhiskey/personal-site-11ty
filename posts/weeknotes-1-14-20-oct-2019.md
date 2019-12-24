@@ -5,7 +5,7 @@ date: 2019-10-19
 layout: layouts/post.njk
 ---
 
-Having been inspired by the likes of Victor, Dan and Matt, here’s my first attempt at weeknotes.
+Having been inspired by the likes of [Victor](https://www.victorhwang.co/weeknotes/2019/06/12/week2.html), [Dan](https://weeknot.es/dans-weeknotes-s05e06-44c970484e59) and [Matt](https://weeknot.es/@jukesie), here’s my first attempt at weeknotes.
 
 Monday was Big Train Experiment Day. For the last 11 months I’d been waking up at 5:30am for a 7am train from York (where I live) to London (where I work), every Monday. I’d been sleeping on the train – or trying to – and often felt like I was playing catchup for the rest of the week.
 
@@ -13,7 +13,7 @@ Not so this Monday: my alarm went off at 6:45; I had a coffee; caught the bus; g
 
 ## Welcoming our first user researcher
 
-Later on Monday I had only my second 1:1 with our new user researcher, Clare Ridd. She’s Farewill’s first dedicated researcher, and it’s already abundantly clear how fantastic it will be to have her around. Clare’s my first direct report, i.e. the first person I’ve managed. It’s one of my career regrets that I haven’t had the opportunity to be a line manager until now. Supporting others and helping them be the best they can be is something I’m hugely excited about. One thing I’ve been doing to prepare is reading Julie Zhuo’s excellent Making of a Manager book, which I highly recommend. I’m sure I’ll make plenty of mistakes (and I hope Clare will tell me when I do) but I’m enjoying it so far, and Clare seems to be settling in brilliantly.
+Later on Monday I had only my second 1:1 with our new user researcher, [Clare Ridd](https://twitter.com/clareridd?lang=en). She’s [Farewill’s](https://farewill.com/) first dedicated researcher, and it’s already abundantly clear how fantastic it will be to have her around. Clare’s my first direct report, i.e. the first person I’ve managed. It’s one of my career regrets that I haven’t had the opportunity to be a line manager until now. Supporting others and helping them be the best they can be is something I’m hugely excited about. One thing I’ve been doing to prepare is reading Julie Zhuo’s excellent Making of a Manager book, which I highly recommend. I’m sure I’ll make plenty of mistakes (and I hope Clare will tell me when I do) but I’m enjoying it so far, and Clare seems to be settling in brilliantly.
 
 ## All Hands wobble
 
@@ -21,10 +21,13 @@ Tuesday was an odd one. We had our weekly All Hands at 10:30 – where we all ga
 
 ## The joy of illustrations
 
-Farewill is rebranding and our probate website was updated this week. It’s been such a pleasure to work on. As always, I’ve tried to run things as collaboratively and openly, and we’ve had fantastic input from lots of the wider Farewill team. Not least from Anna Charity and Louis Buck who provided incredible illustrations which convey tricky concepts simply and visually. The illustration at the top of our ‘What is probate?’ page is wonderful (if you follow the link on mobile you might not see it).
+Farewill is rebranding and [our probate website](https://probate.farewill.com/) was updated this week. It’s been such a pleasure to work on. As always, I’ve tried to run things as collaboratively and openly, and we’ve had fantastic input from lots of the wider Farewill team. Not least from [Anna Charity](https://twitter.com/missycharity?lang=en-gb) and Louis Buck who provided incredible illustrations which convey tricky concepts simply and visually. The illustration at the top of our [‘What is probate?’ page](https://probate.farewill.com/help/what-is-probate) is wonderful (if you follow the link on mobile you might not see it).
 
+<figure class="wp-block-image">![](http://www.tomhiskey.co.uk/wp-content/uploads/2019/10/Screenshot-2019-10-19-at-14.36.50-1-720x454.png)</figure>
 
-I’m also in love with the brush strokes between sections on the home page (on larger screens), crafted by Emily Isacke. It’s the sort of detail that is easy not to bother with, but these things make a difference. Although it is such a designery thing to hone in on (sorry…).
+I’m also in love with the brush strokes between sections on the [home page](https://probate.farewill.com/) (on larger screens), crafted by Emily Isacke. It’s the sort of detail that is easy not to bother with, but these things make a difference. Although it is _such_ a designery thing to hone in on (sorry…).
+
+<figure class="wp-block-image">![](http://www.tomhiskey.co.uk/wp-content/uploads/2019/10/Screenshot-2019-10-19-at-14.36.41-1-720x454.png)</figure>
 
 ## The importance of a name
 
@@ -33,4 +36,3 @@ Also this week I’ve been working on our blossoming internal sales and customer
 So I sent round a survey for ideas. Some of the more questionable responses so far include Data Entry and Administration Database (it’s all about the acronym), Winternal Tool and Dan. The search continues…
 
 Tomorrow (Sunday) I run the Yorkshire Marathon, my first ever marathon. Training has been a huge part of my year so far and it’s a peculiar thought that it’s in less than 24 hours. I’m excited and nervous – my longer training runs (about 34km) were incredibly hard, and I know the marathon (42km) will be even harder. Beyond that I don’t know what to expect, but whatever happens I’m glad I committed to it.
-
