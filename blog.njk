@@ -1,0 +1,23 @@
+---
+layout: layouts/home.njk
+permalink: /blog/
+eleventyNavigation:
+  key: Blog
+  order: 2
+---
+
+
+<h1>Blog</h1>
+
+{% set postslist = collections.posts | head(-6) %}
+{% include "postslist.njk" %}
+
+<p><br /><br /></p>
+<p>These are my 6 latest posts. More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+
+</div>
+        <div>
+          
+        </div>
+        
+        </div>

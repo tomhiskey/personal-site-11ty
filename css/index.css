@@ -35,7 +35,7 @@ body {
 }
 
 .content {
-  margin-top: 100px;
+  margin-top: 80px;
 }
 p, ul {
   line-height: 1.8em;
@@ -78,7 +78,7 @@ h1 {
   font-family: "Vollkorn", serif;
   font-weight: 400;
   font-size: 42px;
-  margin-bottom: 70px;
+  margin-bottom: 60px;
 }
 h2 {
   font-family: "Vollkorn", serif;
@@ -101,6 +101,13 @@ table th {
 }
 img {
   max-width: 100%;
+}
+blockquote {
+  border-left: 4px solid var(--lightgray);
+  padding-left: 30px;
+  margin-left: 0px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 pre,
