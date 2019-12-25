@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Contact me 📣
+title: Contact me
 templateClass: tmpl-post
 eleventyNavigation:
   key: Contact

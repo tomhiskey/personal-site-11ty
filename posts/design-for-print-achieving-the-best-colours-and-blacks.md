@@ -23,9 +23,11 @@ This video is an excellent introduction to CMYK and RGB:
 
 <iframe src="https://www.youtube.com/embed/6gOVHTwJ2mQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-Herefollows some nitty gritty, much of it specific to the latest Adobe CC suite (apologies if you don’t use it):
+Here's some of the nitty gritty, much of it specific to the latest Adobe CC suite (apologies if you don’t use it):
 
-*   [![Adobe swatches showing RGB and CMYK differences](http://www.tomhiskey.co.uk/wp-content/uploads/2016/07/Screen-Shot-2016-06-30-at-21.29.18-213x300.png)](http://www.tomhiskey.co.uk/wp-content/uploads/2016/07/Screen-Shot-2016-06-30-at-21.29.18.png)I find it helps to create a swatch library with both RGB and CMYK colours, [using the Adobe CC colour picker](https://helpx.adobe.com/photoshop/using/choosing-colors.html). To the right is a screenshot of my swatches: the differences between RGB and CMYK variations are particularly marked in the oranges and greens.
+![Adobe swatches showing RGB and CMYK differences](/img/Screen-Shot-2016-06-30-at-21.29.18.png)
+
+* I find it helps to create a swatch library with both RGB and CMYK colours, [using the Adobe CC colour picker](https://helpx.adobe.com/photoshop/using/choosing-colors.html). Above is a screenshot of my swatches: the differences between RGB and CMYK variations are particularly marked in the oranges and greens.
 *   Determining the right colours in the first place is more difficult. If you use a designer, ask for CMYK, RGB and hex equivalents for every colour. In our case, we had tremendous difficulty translating our green from RGB to CMYK… turns out green in particular is a pain in the arse when it comes to CMYK. But after experimenting and having a few test runs, we got the right one.
 *   In InDesign (or equivalent), make sure the ‘transparency blend space’ is RGB or CMYK as appropriate – the wrong one can produce some odd results.
 *   Don’t bother converting RGB imagery to CMYK (or vice versa) before importing – this is a myth. If your export settings are set up properly, this will do the conversion for you. (Though it’s not so simple for text…)
@@ -37,19 +39,12 @@ It can be helpful to do a final check of a file before it’s sent to print.
 
 If you’re lucky enough to have the very handy Adobe Acrobat Pro DC and you want to check a file’s colour model, open ‘Tools’, ‘Print production’, then ‘[Output preview](https://helpx.adobe.com/acrobat/using/previewing-output-acrobat-pro.html)‘. Under ‘Show’, select ‘CMYK’ – if all the elements on the page (apart from printer marks) remain visible, it’s CMYK. Then select ‘RGB’ – if it’s CMYK, all elements will disappear.
 
-<div id="attachment_778" style="width: 1946px" class="wp-caption alignleft">![Acrobat Pro output preview showing CMYK](http://www.tomhiskey.co.uk/wp-content/uploads/2016/06/Screen-Shot-2016-06-30-at-22.11.27.png)
-
-Above – the output preview in Acrobat showing anything CMYK. The page elements remain visible so they must be CMYK.
-
-</div>
+![Acrobat Pro output preview showing CMYK](/img/Screen-Shot-2016-06-30-at-22.11.27.png)<em>Above – the output preview in Acrobat showing anything CMYK. The page elements remain visible so they must be CMYK.</em>
 
 Also in ‘Output preview’, if you select ‘Preview’ > ‘Separations’, you can hover the cursor over an element on the page to see a breakdown of the CMYK values. Particularly helpful to check for four-colour blacks (see below).
 
-<div id="attachment_779" style="width: 1460px" class="wp-caption alignleft">![Acrobat Pro output preview showing CMYK colour breakdown](http://www.tomhiskey.co.uk/wp-content/uploads/2016/06/Screen-Shot-2016-06-30-at-22.09.57.png)
+![Acrobat Pro output preview showing CMYK colour breakdown](/img/Screen-Shot-2016-06-30-at-22.09.57.png)<em>Above – hovering the cursor (not shown) over a colour in output preview will show the four CMYK values</em>
 
-Above – hovering the cursor (not shown) over a colour in output preview will show the four CMYK values
-
-</div>
 
 ## 2\. Black’s not necessarily black
 
@@ -67,29 +62,24 @@ Getting the right export settings (below) is also crucial.
 
 It’s often helpful to check the blacks in a file after export. Using Adobe Acrobat Pro DC, under tools, choose ‘Print production’ and then ‘Output preview’. Select a CMYK profile from ‘Simulation profile’, e.g. Coated FOGRA39\. In the preview section, select ‘Separations’. If you untick ‘Process Black’, all one-colour blacks will be removed, and all four-colour blacks will remain.
 
-<div id="attachment_781" style="width: 2132px" class="wp-caption alignleft">![Acrobat Pro output preview separations](http://www.tomhiskey.co.uk/wp-content/uploads/2016/06/Screen-Shot-2016-06-30-at-22.16.30.png)
+![Acrobat Pro output preview separations](/img/Screen-Shot-2016-06-30-at-22.16.30.png)
 
 1\. Above – Acrobat Pro output preview showing all four parts of CMYK, so every element on the page is visible.
 
-</div>
 
-<div id="attachment_783" style="width: 2040px" class="wp-caption alignleft">![Acrobat Pro output preview separations](http://www.tomhiskey.co.uk/wp-content/uploads/2016/06/Screen-Shot-2016-06-30-at-22.16.39.png)
+![Acrobat Pro output preview separations](/img/Screen-Shot-2016-06-30-at-22.16.39.png)
 
 2\. Above – ‘Process Black’ has been unticked, so all genuine one colour blacks disappear (only elements made up of cyan, magenta and yellow remain, like the orange headings).
 
-</div>
-
-<div id="attachment_782" style="width: 2106px" class="wp-caption alignleft">![Acrobat Pro output preview separations](http://www.tomhiskey.co.uk/wp-content/uploads/2016/06/Screen-Shot-2016-06-30-at-22.16.52.png)
+![Acrobat Pro output preview separations](/img/Screen-Shot-2016-06-30-at-22.16.52.png)
 
 3\. Above – Oops… on this page, some cheeky grey lines remain, which means they can’t be one-colour. This needs fixing, so it’s back to the original document to sort it out.
-
-</div>
 
 ## 3\. The right software, the right export settings
 
 For brochures and other documents, I use Adobe Indesign CC. In terms of colours, ‘Output’ is an important part of the ‘Export’ settings. To ensure a document exports as CMYK: for ‘Color conversion’ select ‘Convert to destination’; for destination I use ‘Document CMYK’ (which takes the current working space from the document settings, which for me is ‘Coated FOGRA39 (ISO 12646-2:2004)’); for ‘Profile inclusion policy’ I use ‘Don’t include profiles’.
 
-![Screen Shot 2016-06-30 at 22.30.20](http://www.tomhiskey.co.uk/wp-content/uploads/2016/06/Screen-Shot-2016-06-30-at-22.30.20.png)
+![Adobe export settings](/img/Screen-Shot-2016-06-30-at-22.30.20.png)
 
 ## 4\. Find a friendly printer
 

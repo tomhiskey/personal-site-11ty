@@ -1,5 +1,5 @@
 ---
-title: Managing usolicited feedback during a user experience review
+title: Managing unsolicited feedback during a user experience review
 description: I recently completed the first stage of a structured user experience review, following...
 date: 2015-04-21
 layout: layouts/post.njk

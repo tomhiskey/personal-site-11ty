@@ -13,11 +13,7 @@ The central tenet – don’t make users think – concisely encapsulates UX.
 
 Today, my local Sainsbury’s shop made me think. After I finished scanning my items at a self-service checkout and paying by card, I was confronted by the following screen.
 
-<div id="attachment_671" style="width: 730px" class="wp-caption alignleft">[![UX at Sainsbury's: stop and think](http://www.tomhiskey.co.uk/wp-content/uploads/2016/02/Sainsburys-payment-card-edit-720x618.jpg)](http://www.tomhiskey.co.uk/wp-content/uploads/2016/02/Sainsburys-payment-card-edit.jpg)
-
-UX at a Sainsbury’s self-service checkout: I was made to stop and think
-
-</div>
+![UX at Sainsbury's: stop and think](/img/Sainsburys-payment-card-edit.jpg)<em>UX at a Sainsbury’s self-service checkout: I was made to stop and think</em>
 
 My instinct was that something had gone wrong. Perhaps I’d entered my PIN incorrectly, or my card had been declined.
 
@@ -27,11 +23,7 @@ I had assumed (and I’m guessing I’m not the only one) that the big red encir
 
 By breaking convention, the screen had made me think, unnecessarily.
 
-<div id="attachment_676" style="width: 263px" class="wp-caption alignleft">[![Alternative approach - better UX?](http://www.tomhiskey.co.uk/wp-content/uploads/2016/02/Sainsburys-payment-card-concept-253x300.jpg)](http://www.tomhiskey.co.uk/wp-content/uploads/2016/02/Sainsburys-payment-card-concept.jpg)
-
-Alternative approach – a clearer indication of success
-
-</div>
+![Alternative approach - better UX?](/img/Sainsburys-payment-card-concept-720x852.jpg)<em>Alternative approach – a clearer indication of success?</em>
 
 An alternative for Sainsbury’s would be to ensure the screen adheres to basic and long-established conventions about successful interactions. Specifically, the colour green and a big tick.
 

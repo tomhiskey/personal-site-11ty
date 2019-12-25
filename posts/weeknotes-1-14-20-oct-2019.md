@@ -23,11 +23,11 @@ Tuesday was an odd one. We had our weekly All Hands at 10:30 – where we all ga
 
 Farewill is rebranding and [our probate website](https://probate.farewill.com/) was updated this week. It’s been such a pleasure to work on. As always, I’ve tried to run things as collaboratively and openly, and we’ve had fantastic input from lots of the wider Farewill team. Not least from [Anna Charity](https://twitter.com/missycharity?lang=en-gb) and Louis Buck who provided incredible illustrations which convey tricky concepts simply and visually. The illustration at the top of our [‘What is probate?’ page](https://probate.farewill.com/help/what-is-probate) is wonderful (if you follow the link on mobile you might not see it).
 
-<figure class="wp-block-image">![](http://www.tomhiskey.co.uk/wp-content/uploads/2019/10/Screenshot-2019-10-19-at-14.36.50-1-720x454.png)</figure>
+![Farewill probate website screenshot](/img/probate-website-design-2.png)
 
 I’m also in love with the brush strokes between sections on the [home page](https://probate.farewill.com/) (on larger screens), crafted by Emily Isacke. It’s the sort of detail that is easy not to bother with, but these things make a difference. Although it is _such_ a designery thing to hone in on (sorry…).
 
-<figure class="wp-block-image">![](http://www.tomhiskey.co.uk/wp-content/uploads/2019/10/Screenshot-2019-10-19-at-14.36.41-1-720x454.png)</figure>
+![Farewill probate website screenshot](/img/probate-website-design-1.png)
 
 ## The importance of a name
 

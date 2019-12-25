@@ -104,6 +104,14 @@ img {
   border-radius: 3px;
   margin: 10px 0 10px 0;
 }
+img + em { 
+  font-size: 0.8em;
+  display: block;
+  margin-bottom: 30px;
+}
+img + em:before {
+  content: "☝ ";
+}
 blockquote {
   border-left: 4px solid var(--lightgray);
   padding-left: 30px;

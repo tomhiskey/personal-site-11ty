@@ -25,11 +25,7 @@ Tomer Sharon is a User Experience Researcher at Google in New York. His keynote 
 
 (User research! Critical to the process. Surveys and focus groups alone won’t cut the mustard.)
 
-<div id="attachment_488" style="width: 730px" class="wp-caption alignleft">[![NUX 4](http://www.tomhiskey.co.uk/wp-content/uploads/2015/10/NUX4-2015-720x281.jpg)](http://www.tomhiskey.co.uk/wp-content/uploads/2015/10/NUX4-2015.jpg)
-
-NUX4, Manchester, November 2015
-
-</div>
+![NUX4](/img/NUX4-2015.jpg "NUX4")<em>NUX4, Manchester, November 2015</em>
 
 ## Communicating the UX process to clients
 

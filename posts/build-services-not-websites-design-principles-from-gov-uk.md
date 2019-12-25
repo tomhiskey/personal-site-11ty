@@ -46,19 +46,12 @@ To clumsily sum up in my own words:
 
 As a rule, GOV.UK contains nothing superfluous. Here’s a page relating to applying for a grant of probate, an area of particular interest to me:
 
-<div id="attachment_556" style="width: 730px" class="wp-caption alignleft">[![Gov uk design - grant of probate](http://www.tomhiskey.co.uk/wp-content/uploads/2015/12/Gov-uk-design-grant-of-probate-720x585.png)](http://www.tomhiskey.co.uk/wp-content/uploads/2015/12/Gov-uk-design-grant-of-probate.png)
+![Gov uk design - grant of probate](/img/Gov-uk-design-grant-of-probate-768x624.png "Gov uk design") <em>An uncluttered, needs-focused and content-driven page at GOV.UK.</em>
 
-An uncluttered, needs-focused and content-driven page at GOV.UK.
-
-</div>
 
 Contrast the clear, needs-focused design above with a page from the DirectGov service which GOV.UK replaced:
 
-<div id="attachment_558" style="width: 730px" class="wp-caption alignleft">[![Old design for Directgov](http://www.tomhiskey.co.uk/wp-content/uploads/2015/12/direct_gov_uk-720x720.png)](http://www.tomhiskey.co.uk/wp-content/uploads/2015/12/direct_gov_uk.png)
-
-The cluttered, hard-to-read and unfocussed approach of .gov.uk’s predecessor, Directgov.
-
-</div>
+![Old design for Directgov](/img/direct_gov_uk.png "DirectGov screenshot") <em>The cluttered, hard-to-read and unfocussed approach of .gov.uk’s predecessor, Directgov.</em>
 
 Ultimately, the reason GOV.UK succeeds is the GDS’s unflinching goal to satisfy users’ needs as simply as possible.
 

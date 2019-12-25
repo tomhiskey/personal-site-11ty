@@ -13,11 +13,7 @@ It starts with the tenet that a business doesn’t necessarily know what its use
 
 My favourite example of this is an experiment run by Petter Johansson, a cognitive science researcher at Lund University. [As explained by Petter and his colleague Lars Hall](https://explorable.com/choice-blindness), two cards of same-gender faces were placed in front of participants. They were asked which face they found more attractive. Unbeknownst to participants, the moderator was a magician who, with slight of hand, presented the participants with the face they rejected. They were then asked to explain their choice.
 
-<div id="attachment_873" style="width: 465px" class="wp-caption alignleft">[![Choice blindness face card experiment](http://www.tomhiskey.co.uk/wp-content/uploads/2016/07/Choice-blindness-face-card-experiment.jpg)](http://www.tomhiskey.co.uk/wp-content/uploads/2016/07/Choice-blindness-face-card-experiment.jpg)
-
-The choice blindness experiment is a useful lesson for UX practitioners
-
-</div>
+![Choice blindness face card experiment](/img/Choice-blindness-face-card-experiment.jpg)<em>The choice blindness experiment is a useful lesson for UX practitioners</em>
 
 75% of the time, participants were blind to the mismatch. Furthermore, the majority proceeded to give detailed reasons why they choose that face over the other, one remarking “I prefer blondes” (he’d chosen a brunette). Johansson calls this ‘choice blindness’.
 

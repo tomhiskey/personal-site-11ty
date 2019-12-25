@@ -5,7 +5,7 @@ date: 2016-07-01
 layout: layouts/post.njk
 ---
 
-In [a previous post](http://www.tomhiskey.co.uk/household-heuristics-why-a-flashing-light-is-good-ux/) I touched on Nielsen’s “[10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)“. Though 20 years old, these nuggets still ring true.
+In [a previous post](/posts/household-heuristics-why-a-flashing-light-is-good-ux/) I touched on Nielsen’s “[10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)“. Though 20 years old, these nuggets still ring true.
 
 Here’s a biggie:
 
@@ -20,11 +20,7 @@ Using Apple’s native Mail application on my Macbook, I searched for the out-of
 
 All good so far, and one final action for me to take:
 
-<div id="attachment_834" style="width: 574px" class="wp-caption alignleft">[![The offending window in MacMail - poor error prevention](http://www.tomhiskey.co.uk/wp-content/uploads/2016/07/Mac-Mail.png)](http://www.tomhiskey.co.uk/wp-content/uploads/2016/07/Mac-Mail.png)
-
-The offending window in MacMail – poor error prevention
-
-</div>
+![The offending window in MacMail - poor error prevention](/img/Mac-Mail.png)<em>The offending window in MacMail – poor error prevention</em>
 
 Sure, I was in a bit of a hurry to log off and go on holiday, but of course the choice was obvious – I clicked the welcoming blue button.
 
@@ -52,11 +48,7 @@ Even if it had to be possible (which it didn’t), it was far too easy for me to
 
 There’s plenty of research about [how little people read online](https://www.nngroup.com/articles/how-little-do-users-read/), and the impact and [psychology of colours](https://www.paulolyslager.com/call-to-action-buttons-psychology-color/). So, 100% scientifically, this is what my brain processed when I saw that confirmation window:
 
-<div id="attachment_847" style="width: 585px" class="wp-caption alignleft">[![UX - how the brain processes colours and text](http://www.tomhiskey.co.uk/wp-content/uploads/2016/07/Mac-Mail-blurred-JPEG.jpg)](http://www.tomhiskey.co.uk/wp-content/uploads/2016/07/Mac-Mail-blurred-JPEG.jpg)
-
-Scientifically, what my brain processed
-
-</div>
+![UX - how the brain processes colours and text](/img/Mac-Mail-blurred-JPEG.jpg)<em>Scientifically, what my brain processed</em>
 
 Putting aside the issue that this result shouldn’t have been possible in the first place, there are options which might reduce the likelihood of errors.
 
