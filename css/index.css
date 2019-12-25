@@ -4,11 +4,10 @@
   --mediumgray: #a3a3a3;
   --gray: #C0C0C0;
   --darkgray: #262d2d;
-  --navy: #17050F;
-  --blue: #082840;
   --white: #fff;
   --offwhite: #fefefe;
   --hover: #f5ba5b; /* */ 
+  --black: #000000;
 }
 /* * {
   box-sizing: border-box;
@@ -55,10 +54,10 @@ img {
   line-height: 1.45;
 }
 a[href] {
-  color: var(--blue);
+  color: var(--darkgray);
 }
-a[href]:visited {
-  color: var(--navy);
+a:hover {
+  color: var(--black);
 }
 /* main {
   padding: 1rem; 
@@ -79,6 +78,7 @@ h1 {
   font-weight: 400;
   font-size: 42px;
   margin-bottom: 60px;
+  max-width: 85%;
 }
 h2 {
   font-family: "Vollkorn", serif;

@@ -5,7 +5,7 @@ date: 2018-08-09
 layout: layouts/post.njk
 ---
 
-MMany businesses suffer from the ‘it seemed like a good idea at the time’ syndrome, where software or features are built on the suggestion of an individual or two. Time and money is spent on implementation, but often the results go by the wayside: never finished for lack of clarity of vision; never used for lack of user interest.
+Many businesses suffer from the ‘it seemed like a good idea at the time’ syndrome, where software or features are built on the suggestion of an individual or two. Time and money is spent on implementation, but often the results go by the wayside: never finished for lack of clarity of vision; never used for lack of user interest.
 
 UX methodology avoids ‘ISLAGIATT’ projects.
 
