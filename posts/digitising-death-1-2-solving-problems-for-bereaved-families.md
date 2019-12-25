@@ -8,7 +8,7 @@ layout: layouts/post.njk
 After a death, bank accounts must be closed or transferred, utilities cancelled and assets sold. The practicalities of bereavement have changed little in 100 years.
 
 Those past 100 years have seen staggering change for consumers (living ones) in terms of how we can access money, handle transactions, confirm our identity and enter into agreements. Thanks to Open Banking, I can download an app which allows me to manage my accounts across multiple banks. I can open an account and pay in a cheque with a couple of photos. I can complete transactions and apply for loans online. I can renew my passport, insure my car and pay tax digitally.
-
+ 
 Has probate been similarly revolutionised? Sadly not. The infrastructure of death in the UK is relatively unchanged. Once a consumer dies, their relatives lose the digital opportunities available to the living and are faced with a lengthy, paper-based, manual process, with banks operating in silos (meaning lots of duplicated effort).
 
 This often means: paying for multiple paper copies of a death certificate and sending them off by post; filling in a different form for every bank by hand; visiting a local bank branch and bringing paper ID; passing through metal detectors in a court building to swear an oath; multiple phone calls to chase things up; a total lack of visibility of progress; almost nothing available digitally.

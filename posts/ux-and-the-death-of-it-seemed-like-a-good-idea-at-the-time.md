@@ -8,7 +8,7 @@ layout: layouts/post.njk
 Many businesses suffer from the ‘it seemed like a good idea at the time’ syndrome, where software or features are built on the suggestion of an individual or two. Time and money is spent on implementation, but often the results go by the wayside: never finished for lack of clarity of vision; never used for lack of user interest.
 
 UX methodology avoids ‘ISLAGIATT’ projects.
-
+ 
 It starts with the tenet that a business doesn’t necessarily know what its users want. But more than that: users don’t necessarily want what they ask for. That’s not as counter-intuitive as it might seem: though UX is firmly rooted in user evidence, that’s not synonymous with what they say they want.
 
 My favourite example of this is an experiment run by Petter Johansson, a cognitive science researcher at Lund University. [As explained by Petter and his colleague Lars Hall](https://explorable.com/choice-blindness), two cards of same-gender faces were placed in front of participants. They were asked which face they found more attractive. Unbeknownst to participants, the moderator was a magician who, with slight of hand, presented the participants with the face they rejected. They were then asked to explain their choice.

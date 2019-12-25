@@ -6,7 +6,7 @@ layout: layouts/post.njk
 ---
 
 Having been inspired by the likes of [Victor](https://www.victorhwang.co/weeknotes/2019/06/12/week2.html), [Dan](https://weeknot.es/dans-weeknotes-s05e06-44c970484e59) and [Matt](https://weeknot.es/@jukesie), here’s my first attempt at weeknotes.
-
+ 
 Monday was Big Train Experiment Day. For the last 11 months I’d been waking up at 5:30am for a 7am train from York (where I live) to London (where I work), every Monday. I’d been sleeping on the train – or trying to – and often felt like I was playing catchup for the rest of the week.
 
 Not so this Monday: my alarm went off at 6:45; I had a coffee; caught the bus; grabbed the 8:20 train. The difference was huge. I felt awake, productive and alive with the joys of life. I arrived in the office later (10:45am), but worked more hours overall and felt less tired. Experiment: successful.

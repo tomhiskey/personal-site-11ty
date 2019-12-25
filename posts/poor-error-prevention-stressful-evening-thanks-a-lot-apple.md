@@ -47,7 +47,7 @@ I cannot envisage a single reasonable scenario where any user would want to send
 Even if it had to be possible (which it didn’t), it was far too easy for me to click that button, considering the seriousness of the results.
 
 There’s plenty of research about [how little people read online](https://www.nngroup.com/articles/how-little-do-users-read/), and the impact and [psychology of colours](https://www.paulolyslager.com/call-to-action-buttons-psychology-color/). So, 100% scientifically, this is what my brain processed when I saw that confirmation window:
-
+ 
 ![UX - how the brain processes colours and text](/img/Mac-Mail-blurred-JPEG.jpg)<em>Scientifically, what my brain processed</em>
 
 Putting aside the issue that this result shouldn’t have been possible in the first place, there are options which might reduce the likelihood of errors.

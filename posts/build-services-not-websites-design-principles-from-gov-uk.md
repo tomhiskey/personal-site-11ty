@@ -58,7 +58,7 @@ Ultimately, the reason GOV.UK succeeds is the GDS’s unflinching goal to satisf
 Huge credit is also due to the content-writers and editors, condensing often complex and technical subjects into clear, accessible advice. For example, the grant of probate page, above. The GDS’s [Writing for GOV.UK](https://www.gov.uk/guidance/content-design/writing-for-gov-uk) guide shows how it’s done.
 
 GOV.UK [isn’t perfect](https://gds.blog.gov.uk/2015/03/06/gov-uk-isnt-finished/), but attaining such consistent usability is a hugely impressive achievement, and one – precisely because of its simplicity – that’s easy to ignore or under-appreciate.
-
+ 
 In the UK, successful, ambitious, long-term government projects are rare things, especially in the digital domain. GOV.UK is something we can cherish and learn from.
 
 There is a wealth of publicly-available resources from GDS. Recommended reading includes:

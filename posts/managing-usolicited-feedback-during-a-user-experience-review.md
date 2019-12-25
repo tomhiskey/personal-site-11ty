@@ -32,7 +32,7 @@ Another said this:
 ## My approach
 
 My approach was to:
-
+ 
 *   thank colleagues for feedback so far, and encourage them to keep it coming (user feedback in any form is valuable and should not be discouraged);
 *   do a little bit of awareness-raising about the UX process (a new concept for many at the company), for example to explain the value of doing things in a structured, unbiased, moderated way;
 *   say to colleagues that, while I’m grateful for all feedback, I would put it to one side for the time being and review it later as a means of corroborating/contradicting my findings.

@@ -18,7 +18,7 @@ Today, my local Sainsbury’s shop made me think. After I finished scanning my i
 My instinct was that something had gone wrong. Perhaps I’d entered my PIN incorrectly, or my card had been declined.
 
 As it transpired, there was nothing amiss. I was free to remove my card, take my shopping and head home to cook some curry.
-
+ 
 I had assumed (and I’m guessing I’m not the only one) that the big red encircled exclamation mark indicated an error. Put [‘error icon’ into Google images](https://www.google.co.uk/search?q=error+message&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjH4Kq2tebKAhWBmx4KHS-6Br0Q_AUIBygB&biw=1271&bih=624&dpr=2#tbm=isch&q=error+icon) and you’ll get a bunch of red circles and a fair few exclamation marks.
 
 By breaking convention, the screen had made me think, unnecessarily.

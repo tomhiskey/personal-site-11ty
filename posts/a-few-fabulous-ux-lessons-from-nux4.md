@@ -27,7 +27,7 @@ Tomer Sharon is a User Experience Researcher at Google in New York. His keynote 
 
 ![NUX4](/img/NUX4-2015.jpg "NUX4")<em>NUX4, Manchester, November 2015</em>
 
-## Communicating the UX process to clients
+## Communicating the UX process to clients 
 
 Jenny Grinblo from Future Workshops was another experienced and entertaining speaker.
 

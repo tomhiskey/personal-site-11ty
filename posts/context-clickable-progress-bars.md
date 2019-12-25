@@ -39,7 +39,7 @@ Knowing that partners (portal 2) struggle with the bars, and not wanting to risk
 ![Progress bars 1](/img/Progress-bars-1.png)
 
 Users intuitively understand that clicking the link will reveal further details. (Hover effects aren’t enough: the user may not think to hover over the bars, and they are inadequate for tablets and mobiles.)
-
+ 
 It was a simple, low cost solution; i.e. easy to implement without causing disruption or complication to the interface.
 
 Simple solution aside, for me this is a demonstration that different user groups can provide significantly different results based purely on context and consistency.

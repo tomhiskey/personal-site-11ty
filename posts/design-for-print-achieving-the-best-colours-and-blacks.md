@@ -40,7 +40,7 @@ It can be helpful to do a final check of a file before it’s sent to print.
 If you’re lucky enough to have the very handy Adobe Acrobat Pro DC and you want to check a file’s colour model, open ‘Tools’, ‘Print production’, then ‘[Output preview](https://helpx.adobe.com/acrobat/using/previewing-output-acrobat-pro.html)‘. Under ‘Show’, select ‘CMYK’ – if all the elements on the page (apart from printer marks) remain visible, it’s CMYK. Then select ‘RGB’ – if it’s CMYK, all elements will disappear.
 
 ![Acrobat Pro output preview showing CMYK](/img/Screen-Shot-2016-06-30-at-22.11.27.png)<em>Above – the output preview in Acrobat showing anything CMYK. The page elements remain visible so they must be CMYK.</em>
-
+ 
 Also in ‘Output preview’, if you select ‘Preview’ > ‘Separations’, you can hover the cursor over an element on the page to see a breakdown of the CMYK values. Particularly helpful to check for four-colour blacks (see below).
 
 ![Acrobat Pro output preview showing CMYK colour breakdown](/img/Screen-Shot-2016-06-30-at-22.09.57.png)<em>Above – hovering the cursor (not shown) over a colour in output preview will show the four CMYK values</em>

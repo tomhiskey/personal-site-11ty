@@ -19,4 +19,4 @@ My other positive UX thing from the last couple of weeks has been completing in 
 
 It was the first time I had taken an online course, and I thoroughly enjoyed the experience. I felt like a veritable sponge of knowledge. Better – for me – than reading a book, on the whole.
 
-And I did it all on my new MacBook Pro, perhaps the most joyous sprinkle of all.
+And I did it all on my new MacBook Pro, perhaps the most joyous sprinkle of all. 

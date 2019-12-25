@@ -41,7 +41,7 @@ No error message in the context of a departure lounge display board is a good er
 Nevertheless, error messages like this persist in other contexts – we’ve probably all seen them many times. There’s no excuse – error messages should simply be simply and clear.
 
 And I would add something to the Nielsen list: ‘design for the worst’. Sure, [‘hilarious’ 404 messages](http://www.hongkiat.com/blog/funny-creative-error-404/) – when the user hits a page that no longer exists – can be fun. But not everyone is in the mood to be entertained. Even the friendly mailing service Mailchimp [acknowledges in its tone of voice guidance](http://styleguide.mailchimp.com/voice-and-tone/) that:
-
+ 
 > “It’s always more important to be clear than entertaining. When you’re writing, consider the reader’s state of mind. Are they relieved to be finished with a campaign? Are they confused and seeking our help on Twitter? Are they curious about a post on our blog? Once you have an idea of their emotional state, you can adjust your tone accordingly.”
 
 So does Mailchimp’s current 404 error message breach its own rules? You decide…

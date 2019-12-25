@@ -10,7 +10,7 @@ Instinctively, we all want software and products that _just work_. Confusion, fr
 We all intuitively have a sense of user experience, and we’ll all have encountered usability issues – positive or negative – countless times in our lives, without necessarily ascribing them to this thing called “UX”.
 
 A long-standing and well known list of usability guidelines is Jakob Nielsen’s “[10 usability heuristics for user interface design](https://www.nngroup.com/articles/ten-usability-heuristics/)“. Around in its current for since 1995, it goes to show just how universal are the basic principles of good usability and how they persist through upheavals in technology.
-
+ 
 Nielsen’s background is in software and his heuristics were developed with digital user interfaces in mind. However, most of them apply equally to physical products.  
 For example, item one:
 

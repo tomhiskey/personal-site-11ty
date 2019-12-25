@@ -8,7 +8,7 @@ layout: layouts/post.njk
 I’m a big fan of this diagram as a way of summing up the role of user experience in businesses:
 
 ![UX models - implementation, representation, mental](/img/UX-models-TPH-2015-09-231-720x391.png)
-
+ 
 It represents three models for software and service development: ‘implementation’, ‘representation’ and ‘mental’. Jargony, but simple to understand.
 
 Any business that has developed software or services based on certain internal assumptions, and then seen the end product poorly received by users, may recognise **the implementation model**. Businesses following this model implement technology, products or services based on their own requirements and capabilities, without paying heed to their users. The result is (almost certainly) poor UX.

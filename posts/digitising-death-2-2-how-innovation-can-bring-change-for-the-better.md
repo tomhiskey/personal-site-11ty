@@ -8,7 +8,7 @@ layout: layouts/post.njk
 In Part 1 I wrote about [problems faced by the sector and recent signs of hope](/posts/digitising-death-1-2-solving-problems-for-bereaved-families/). Part 2 covers the hurdles to overcome, and how innovation can bring change for the better for families and the probate industry as a whole.
 
 ## Taking a photo of the death certificate
-
+ 
 I can open a bank account by taking photos of my passport and my face. I can pay in a cheque with a photo. A relatively simple step forward would be for banks, registrars and utility companies to accept a photo of a death certificate, taken by phone. It would save relatives the cost and hassle of sending this paper document by post, and save institutions the cost of administering the paper trail.
 
 ## Instant access to digital death records

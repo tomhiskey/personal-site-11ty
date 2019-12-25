@@ -6,7 +6,7 @@ layout: layouts/post.njk
 ---
 
 In [my last post](/posts/ux-and-the-death-of-it-seemed-like-a-good-idea-at-the-time/) I wrote about “choice blindness”, the principle, supported by research, that people can be blind to their own choices.
-
+ 
 In designing solutions through user research, presenting users with multiple variations of a feature, and asking them to choose their favourite, tends to be unreliable.
 
 In UX, an iterative approach is thought to be better. Start with a proposition based on evidence from users (or a proposal for testing from the business), build something testable (a paper prototype, wireframe, etc), and trial it through usability testing with real users, in context. Identify the aspects that work, remove or change those that don’t. Iterate, and test again.
