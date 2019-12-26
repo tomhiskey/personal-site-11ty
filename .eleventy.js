@@ -54,7 +54,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.setBrowserSyncConfig({
     callbacks: {
       ready: function(err, browserSync) {
-        const content_404 = fs.readFileSync('_site/404.html');
+        const content_404 = fs.readFileSync('docs/404.html'); // was _site/404.html
 
         browserSync.addMiddleware("*", (req, res) => {
           // Provides the 404 content without redirect.
@@ -80,7 +80,7 @@ module.exports = function(eleventyConfig) {
     // This is only used for link URLs (it does not affect your file structure)
     // You can also pass this in on the command line using `--pathprefix`
 
-    // pathPrefix: "/personal-site-11ty/",  
+    pathPrefix: "/personal-site-11ty/",  
     // I un-commented this and updated it to try and make github pages work
 
     markdownTemplateEngine: "liquid",
