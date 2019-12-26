@@ -127,53 +127,8 @@
   </url>
   
   <url>
-    <loc>https://www.tomhiskey.co.uk/_site/404/</loc>
-    <lastmod>2019-12-14</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomhiskey.co.uk/_site/</loc>
-    <lastmod>2019-12-14</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomhiskey.co.uk/_site/page-list/</loc>
-    <lastmod>2019-12-14</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomhiskey.co.uk/_site/posts/</loc>
-    <lastmod>2019-12-14</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomhiskey.co.uk/_site/about/</loc>
-    <lastmod>2019-12-14</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.tomhiskey.co.uk/user-manual/</loc>
     <lastmod>2019-12-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomhiskey.co.uk/_site/user-manual/</loc>
-    <lastmod>2019-12-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomhiskey.co.uk/_site/contact/</loc>
-    <lastmod>2019-12-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomhiskey.co.uk/_site/posts/-/</loc>
-    <lastmod>2019-12-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomhiskey.co.uk/_site/page-list/1/</loc>
-    <lastmod>2019-12-24</lastmod>
   </url>
   
   <url>
@@ -182,128 +137,318 @@
   </url>
   
   <url>
-    <loc>https://www.tomhiskey.co.uk/_site/archive/</loc>
-    <lastmod>2019-12-24</lastmod>
+    <loc>https://www.tomhiskey.co.uk/_site/404/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/404/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/_eleventy_redirect/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/blog/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/contact/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/page-list/1/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/page-list/2/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/page-list/3/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/page-list/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/posts/a-couple-of-positive-user-experience-experiences/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/posts/a-few-fabulous-ux-lessons-from-nux4/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/posts/build-services-not-websites-design-principles-from-gov-uk/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/posts/context-clickable-progress-bars/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/posts/design-for-print-achieving-the-best-colours-and-blacks/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/posts/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/tags/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/user-manual/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/posts/digitising-death-1-2-solving-problems-for-bereaved-families/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/posts/digitising-death-2-2-how-innovation-can-bring-change-for-the-better/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/posts/farewell-to-a-law-firms-trailblazing-online-probate-service/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/posts/household-heuristics-why-a-flashing-light-is-good-ux/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/posts/i-rebuilt-my-website-the-hard-way/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/posts/is-one-persona-enough/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/posts/managing-usolicited-feedback-during-a-user-experience-review/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/posts/poor-error-prevention-stressful-evening-thanks-a-lot-apple/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/posts/sainsburys-dont-make-me-think/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/posts/the-power-of-ux-benchmarking/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/posts/ux-and-the-death-of-it-seemed-like-a-good-idea-at-the-time/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/posts/ux-vs-graphic-design-where-do-the-twain-meet/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/posts/weeknotes-1-14-20-oct-2019/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/posts/why-better-ux-comes-from-understanding-the-implementation-representation-and-mental-models/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/posts/why-giving-users-a-choice-in-ux-research-can-be-a-bad-idea/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/posts/the-worst-error-message-in-the-airport/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/posts/yearnotes-2019/</loc>
+    <lastmod>2019-12-26</lastmod>
   </url>
   
   <url>
     <loc>https://www.tomhiskey.co.uk/_site/blog/</loc>
-    <lastmod>2019-12-24</lastmod>
+    <lastmod>2019-12-26</lastmod>
   </url>
   
   <url>
-    <loc>https://www.tomhiskey.co.uk/_site/posts/ux-vs-graphic-design-where-do-the-twain-meet/</loc>
-    <lastmod>2019-12-25</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomhiskey.co.uk/_site/posts/a-few-fabulous-ux-lessons-from-nux4/</loc>
-    <lastmod>2019-12-25</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomhiskey.co.uk/_site/posts/build-services-not-websites-design-principles-from-gov-uk/</loc>
-    <lastmod>2019-12-25</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomhiskey.co.uk/_site/posts/context-clickable-progress-bars/</loc>
-    <lastmod>2019-12-25</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomhiskey.co.uk/_site/posts/design-for-print-achieving-the-best-colours-and-blacks/</loc>
-    <lastmod>2019-12-25</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomhiskey.co.uk/_site/posts/digitising-death-1-2-solving-problems-for-bereaved-families/</loc>
-    <lastmod>2019-12-25</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomhiskey.co.uk/_site/posts/digitising-death-2-2-how-innovation-can-bring-change-for-the-better/</loc>
-    <lastmod>2019-12-25</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomhiskey.co.uk/_site/posts/farewell-to-a-law-firms-trailblazing-online-probate-service/</loc>
-    <lastmod>2019-12-25</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomhiskey.co.uk/_site/posts/household-heuristics-why-a-flashing-light-is-good-ux/</loc>
-    <lastmod>2019-12-25</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomhiskey.co.uk/_site/posts/is-one-persona-enough/</loc>
-    <lastmod>2019-12-25</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomhiskey.co.uk/_site/tags/</loc>
-    <lastmod>2019-12-25</lastmod>
+    <loc>https://www.tomhiskey.co.uk/_site/page-list/</loc>
+    <lastmod>2019-12-26</lastmod>
   </url>
   
   <url>
     <loc>https://www.tomhiskey.co.uk/_site/posts/a-couple-of-positive-user-experience-experiences/</loc>
-    <lastmod>2019-12-25</lastmod>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/posts/a-few-fabulous-ux-lessons-from-nux4/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/posts/build-services-not-websites-design-principles-from-gov-uk/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/posts/context-clickable-progress-bars/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/posts/design-for-print-achieving-the-best-colours-and-blacks/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/posts/digitising-death-2-2-how-innovation-can-bring-change-for-the-better/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/posts/household-heuristics-why-a-flashing-light-is-good-ux/</loc>
+    <lastmod>2019-12-26</lastmod>
   </url>
   
   <url>
     <loc>https://www.tomhiskey.co.uk/_site/posts/i-rebuilt-my-website-the-hard-way/</loc>
-    <lastmod>2019-12-25</lastmod>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/posts/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/tags/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/posts/farewell-to-a-law-firms-trailblazing-online-probate-service/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/posts/is-one-persona-enough/</loc>
+    <lastmod>2019-12-26</lastmod>
   </url>
   
   <url>
     <loc>https://www.tomhiskey.co.uk/_site/posts/managing-usolicited-feedback-during-a-user-experience-review/</loc>
-    <lastmod>2019-12-25</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomhiskey.co.uk/_site/posts/sainsburys-dont-make-me-think/</loc>
-    <lastmod>2019-12-25</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomhiskey.co.uk/_site/posts/the-power-of-ux-benchmarking/</loc>
-    <lastmod>2019-12-25</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomhiskey.co.uk/_site/posts/the-worst-error-message-in-the-airport/</loc>
-    <lastmod>2019-12-25</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomhiskey.co.uk/_site/posts/ux-and-the-death-of-it-seemed-like-a-good-idea-at-the-time/</loc>
-    <lastmod>2019-12-25</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomhiskey.co.uk/_site/posts/why-better-ux-comes-from-understanding-the-implementation-representation-and-mental-models/</loc>
-    <lastmod>2019-12-25</lastmod>
+    <lastmod>2019-12-26</lastmod>
   </url>
   
   <url>
     <loc>https://www.tomhiskey.co.uk/_site/posts/poor-error-prevention-stressful-evening-thanks-a-lot-apple/</loc>
-    <lastmod>2019-12-25</lastmod>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/posts/sainsburys-dont-make-me-think/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/posts/digitising-death-1-2-solving-problems-for-bereaved-families/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/posts/the-power-of-ux-benchmarking/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/posts/the-worst-error-message-in-the-airport/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/posts/ux-and-the-death-of-it-seemed-like-a-good-idea-at-the-time/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/posts/ux-vs-graphic-design-where-do-the-twain-meet/</loc>
+    <lastmod>2019-12-26</lastmod>
   </url>
   
   <url>
     <loc>https://www.tomhiskey.co.uk/_site/posts/weeknotes-1-14-20-oct-2019/</loc>
-    <lastmod>2019-12-25</lastmod>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/posts/why-better-ux-comes-from-understanding-the-implementation-representation-and-mental-models/</loc>
+    <lastmod>2019-12-26</lastmod>
   </url>
   
   <url>
     <loc>https://www.tomhiskey.co.uk/_site/posts/why-giving-users-a-choice-in-ux-research-can-be-a-bad-idea/</loc>
-    <lastmod>2019-12-25</lastmod>
+    <lastmod>2019-12-26</lastmod>
   </url>
   
   <url>
-    <loc>https://www.tomhiskey.co.uk/_site/posts/yearnotes-2019/</loc>
-    <lastmod>2019-12-25</lastmod>
+    <loc>https://www.tomhiskey.co.uk/_site/contact/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/page-list/1/</loc>
+    <lastmod>2019-12-26</lastmod>
   </url>
   
   <url>
@@ -317,7 +462,17 @@
   </url>
   
   <url>
-    <loc>https://www.tomhiskey.co.uk/_site/page-list/4/</loc>
+    <loc>https://www.tomhiskey.co.uk/_site/posts/yearnotes-2019/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/user-manual/</loc>
+    <lastmod>2019-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomhiskey.co.uk/_site/docs/_site/404/</loc>
     <lastmod>2019-12-26</lastmod>
   </url>
   

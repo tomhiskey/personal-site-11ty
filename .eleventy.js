@@ -80,7 +80,7 @@ module.exports = function(eleventyConfig) {
     // This is only used for link URLs (it does not affect your file structure)
     // You can also pass this in on the command line using `--pathprefix`
 
-    // pathPrefix: "/",
+    // pathPrefix: "/personal-site-11ty/",  // I un-commented this and updated it to try and make github pages work
 
     markdownTemplateEngine: "liquid",
     htmlTemplateEngine: "njk",
