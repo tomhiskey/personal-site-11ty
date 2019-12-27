@@ -9,13 +9,33 @@ I've been painfully aware for some time that some of my technical knowledge is l
 
 So in the last month or two I've found the time to work on it. Here's what I did.
 
-## Learn about CSS grids
+## 1 - Come up with a project
 
-I'm comfortable enough with CSS but my knowledge is 10 years old. One thing that was lacking was CSS grids. 
+I decided to focus my efforts on rebuilding my personal website, is a very modest affair with just a few pages and even fewer visitors.
+
+## 2 - Learn about CSS grids
+
+I'm comfortable enough with CSS but my knowledge is 10 years old. I'd never used [CSS grids](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout). 
 
 So I learned about them with things like the fun [CSS Grid Garden](https://cssgridgarden.com/). And I messed around with them using Glitch ([here's my test site](https://gaudy-apostosaurus.glitch.me/blog.html)). 
 
-Using Glitch was so easy and fun - it seems like such a great way to try things.
+Glitch was so easy and fun - it seems like such a great way to try things.
 
-## Get Visual Studio Code and set up Jekyll
+## 3 - Get Visual Studio Code to build a static site
+
+It was time to delve into the murky (for me) world of code editors and Terminal. So I got Visual Studio Code, which everyone seems to be using (I'm sure that's not true).
+
+
+## 4 - Install Jekyll and run through the tutorial
+
+This
+
+## 5 - Install Eleventy and get the base blog
+
+I understand from [Charlotte Dann](https://twitter.com/charlotte_dann?lang=en) that Eleventy is the static site generator that the cool kids are using. 
+
+So 
+
+## 6 - Tweak, tweak, tweak and deploy
+
 
