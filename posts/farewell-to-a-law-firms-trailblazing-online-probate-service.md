@@ -14,7 +14,7 @@ It wasn’t powered by revolutionary, or even particularly powerful, technology.
 *   Well-designed
 *   Well-executed
 
-![Prob8](/img/Prob8.jpg)  <em>Image credit: [Hallmarkdesign](http://hallmark-design.co.uk/work/prob8couk/).</em>
+![Prob8](/personal-site-11ty/img/Prob8.jpg)  <em>Image credit: [Hallmarkdesign](http://hallmark-design.co.uk/work/prob8couk/).</em>
  
 Prob8.co.uk was also a trailblazer. It launched to consumers in February 2010, long before the likes of Probate Wizard hit the market (the firm behind the service, Kent-based [Whitehead Monckton](http://www.whitehead-monckton.co.uk/), had it in mind since 2007).
 

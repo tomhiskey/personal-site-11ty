@@ -26,7 +26,7 @@ To paraphrase, an error message should tell a user clearly what the f**k is goin
 
 For example, take the following display, snapped on my phone in Manchester Airport’s departure lounge before Christmas, an hour or so before our flight was cancelled (poor us).
 
-![Airport error message UX](/img/Airport-error-message-smaller.jpg)
+![Airport error message UX](/personal-site-11ty/img/Airport-error-message-smaller.jpg)
 
 The message, in the centre of a blank display which should have shown flight departure times:
 
@@ -46,6 +46,6 @@ And I would add something to the Nielsen list: ‘design for the worst’. Sure,
 
 So does Mailchimp’s current 404 error message breach its own rules? You decide…
 
-![Mailchimp 404 error message](/img/Screen-Shot-2017-01-12-at-21.41.48.png)
+![Mailchimp 404 error message](/personal-site-11ty/img/Screen-Shot-2017-01-12-at-21.41.48.png)
 
 Green swamp-monster not withstanding, Mailchimp’s error message is readable, concise and offers a clear next step (the navigation or search box) – unlike the message in the airport.

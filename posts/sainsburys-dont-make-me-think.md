@@ -13,7 +13,7 @@ The central tenet – don’t make users think – concisely encapsulates UX.
 
 Today, my local Sainsbury’s shop made me think. After I finished scanning my items at a self-service checkout and paying by card, I was confronted by the following screen.
 
-![UX at Sainsbury's: stop and think](/img/Sainsburys-payment-card-edit.jpg)<em>UX at a Sainsbury’s self-service checkout: I was made to stop and think</em>
+![UX at Sainsbury's: stop and think](/personal-site-11ty/img/Sainsburys-payment-card-edit.jpg)<em>UX at a Sainsbury’s self-service checkout: I was made to stop and think</em>
 
 My instinct was that something had gone wrong. Perhaps I’d entered my PIN incorrectly, or my card had been declined.
 
@@ -23,7 +23,7 @@ I had assumed (and I’m guessing I’m not the only one) that the big red encir
 
 By breaking convention, the screen had made me think, unnecessarily.
 
-![Alternative approach - better UX?](/img/Sainsburys-payment-card-concept-720x852.jpg)<em>Alternative approach – a clearer indication of success?</em>
+![Alternative approach - better UX?](/personal-site-11ty/img/Sainsburys-payment-card-concept-720x852.jpg)<em>Alternative approach – a clearer indication of success?</em>
 
 An alternative for Sainsbury’s would be to ensure the screen adheres to basic and long-established conventions about successful interactions. Specifically, the colour green and a big tick.
 

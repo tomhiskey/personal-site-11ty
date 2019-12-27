@@ -21,7 +21,7 @@ I had to plan ahead. Before the project began (Feb 2015), I sent a survey to use
 
 The results were as follows:
  
-![UX benchmarking results table ](/img/UX-benchmarking-results-table-with-header.png)<em>UX benchmarking results table, showing weighted averages for each survey out of 7</em>
+![UX benchmarking results table ](/personal-site-11ty/img/UX-benchmarking-results-table-with-header.png)<em>UX benchmarking results table, showing weighted averages for each survey out of 7</em>
 
 The average increase was 25.7%. Agreement with the key statement “Overall, I am satisfied with Insight”, increased 32.5%. In a number of cases the level of agreement increased by over 30%.
 

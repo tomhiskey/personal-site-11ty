@@ -32,7 +32,7 @@ It confirmed what I knew I knew, that UX and graphic design are separate discipl
 
 I considered flexing my Venn diagram muscles by way of illustration, but why bother when the very clever Janis Yee at PDX.ca has done such a good job?
 
-![Infographic by Janis Yee at http://pdx.ca/](/img/UX-Graphic-design-venn.png) <em>Infographic by Janis Yee at http://pdx.ca/</em>
+![Infographic by Janis Yee at http://pdx.ca/](/personal-site-11ty/img/UX-Graphic-design-venn.png) <em>Infographic by Janis Yee at http://pdx.ca/</em>
  
 Check out Janis’s [blog post on the subject](https://ux.stackexchange.com/questions/55351/can-you-be-a-web-and-ux-designer-or-a-web-designer-with-ux-skills).
 

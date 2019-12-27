@@ -24,7 +24,7 @@
 &lt;li&gt;Well-designed&lt;/li&gt;
 &lt;li&gt;Well-executed&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/Prob8.jpg&quot; alt=&quot;Prob8&quot;&gt;  &lt;em&gt;Image credit: &lt;a href=&quot;http://hallmark-design.co.uk/work/prob8couk/&quot;&gt;Hallmarkdesign&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/Prob8.jpg&quot; alt=&quot;Prob8&quot;&gt;  &lt;em&gt;Image credit: &lt;a href=&quot;http://hallmark-design.co.uk/work/prob8couk/&quot;&gt;Hallmarkdesign&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://prob8.co.uk/&quot;&gt;Prob8.co.uk&lt;/a&gt; was also a trailblazer. It launched to consumers in February 2010, long before the likes of Probate Wizard hit the market (the firm behind the service, Kent-based &lt;a href=&quot;http://www.whitehead-monckton.co.uk/&quot;&gt;Whitehead Monckton&lt;/a&gt;, had it in mind since 2007).&lt;/p&gt;
 &lt;p&gt;It offered a sensible, well constructed, step-by-step, fixed fee probate package to consumers, at a time when online and fixed fee were rare things indeed – particularly from law firms. The branding and user experience were top notch – it was intuitive, fast, modern and professional. It appeared at or near the top of search results for probate-related terms for many years.&lt;/p&gt;
 &lt;p&gt;Prob8 was a bold project for a law firm. It took vision to recognise that an outsider’s input (in this case, design consultancy &lt;a href=&quot;http://hallmark-design.co.uk/&quot;&gt;Hallmarkdesign&lt;/a&gt;), money, patience and a fresh, fixed fee approach to probate services were required.&lt;/p&gt;
@@ -72,7 +72,7 @@
 &lt;p&gt;Naturally, I popped along.&lt;/p&gt;
 &lt;p&gt;It confirmed what I knew I knew, that UX and graphic design are separate disciplines, but with significant overlap. It would be a foolish graphic designer that does not undertake at least a basic amount of user experience analysis (how could anyone design a website or app without an understanding of the users?). Similarly, it would be tough for a UX specialist to produce something for a client without any sort of design, even if in the form of paper prototypes or wireframes.&lt;/p&gt;
 &lt;p&gt;I considered flexing my Venn diagram muscles by way of illustration, but why bother when the very clever Janis Yee at &lt;a href=&quot;http://pdx.ca/&quot;&gt;PDX.ca&lt;/a&gt; has done such a good job?&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/UX-Graphic-design-venn.png&quot; alt=&quot;Infographic by Janis Yee at http://pdx.ca/&quot;&gt; &lt;em&gt;Infographic by Janis Yee at &lt;a href=&quot;http://pdx.ca/&quot;&gt;http://pdx.ca/&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/UX-Graphic-design-venn.png&quot; alt=&quot;Infographic by Janis Yee at http://pdx.ca/&quot;&gt; &lt;em&gt;Infographic by Janis Yee at &lt;a href=&quot;http://pdx.ca/&quot;&gt;http://pdx.ca/&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Check out Janis’s &lt;a href=&quot;https://ux.stackexchange.com/questions/55351/can-you-be-a-web-and-ux-designer-or-a-web-designer-with-ux-skills&quot;&gt;blog post on the subject&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The points of overlap in the diagram are important. From a UX perspective:&lt;/p&gt;
 &lt;ul&gt;
@@ -128,7 +128,7 @@
 &lt;/ul&gt;
 &lt;p&gt;The two portals (which I did not help to build) are similar in function. The two user groups use the portals to perform similar activities.&lt;/p&gt;
 &lt;p&gt;Both contain clickable progress bars, not too dissimilar to the following (though in this case this is just a mockup – not actually clickable):&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/Progress-bars-2.png&quot; alt=&quot;Progress bars 2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/Progress-bars-2.png&quot; alt=&quot;Progress bars 2&quot;&gt;&lt;/p&gt;
 &lt;p&gt;The progress bars link to a more detailed breakdown of information.&lt;/p&gt;
 &lt;p&gt;I conducted a separate a round of usability tests for each portal. Partly in person, partly online, but in all cases moderated and with the classic &lt;a href=&quot;https://www.youtube.com/watch?v=fa9DLxDtPtc&quot;&gt;usability testing poker face&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The results were surprising. Customers (portal 1) invariably understood that clicking the progress bars would reveal more detailed information. Partners (portal 2), on the other hand, almost invariably did not.&lt;/p&gt;
@@ -139,7 +139,7 @@
 &lt;p&gt;As a result, partners do not intuitively understand that the bars are clickable.&lt;/p&gt;
 &lt;h3 id=&quot;low-cost-solution&quot;&gt;Low cost solution &lt;a class=&quot;direct-link&quot; href=&quot;#low-cost-solution&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Knowing that partners (portal 2) struggle with the bars, and not wanting to risk the same with even a minority of customers (portal 1), my solution was to add a text link next to the bars, much like the following:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/Progress-bars-1.png&quot; alt=&quot;Progress bars 1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/Progress-bars-1.png&quot; alt=&quot;Progress bars 1&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Users intuitively understand that clicking the link will reveal further details. (Hover effects aren’t enough: the user may not think to hover over the bars, and they are inadequate for tablets and mobiles.)&lt;/p&gt;
 &lt;p&gt;It was a simple, low cost solution; i.e. easy to implement without causing disruption or complication to the interface.&lt;/p&gt;
 &lt;p&gt;Simple solution aside, for me this is a demonstration that different user groups can provide significantly different results based purely on context and consistency.&lt;/p&gt;
@@ -171,7 +171,7 @@
 		<updated>2015-09-30T01:00:00+01:00</updated>
 		<id>https://www.tomhiskey.co.uk/personal-site-11ty/posts/why-better-ux-comes-from-understanding-the-implementation-representation-and-mental-models/</id>
 		<content type="html">&lt;p&gt;I’m a big fan of this diagram as a way of summing up the role of user experience in businesses:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/UX-models-TPH-2015-09-231-720x391.png&quot; alt=&quot;UX models - implementation, representation, mental&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/UX-models-TPH-2015-09-231-720x391.png&quot; alt=&quot;UX models - implementation, representation, mental&quot;&gt;&lt;/p&gt;
 &lt;p&gt;It represents three models for software and service development: ‘implementation’, ‘representation’ and ‘mental’. Jargony, but simple to understand.&lt;/p&gt;
 &lt;p&gt;Any business that has developed software or services based on certain internal assumptions, and then seen the end product poorly received by users, may recognise &lt;strong&gt;the implementation model&lt;/strong&gt;. Businesses following this model implement technology, products or services based on their own requirements and capabilities, without paying heed to their users. The result is (almost certainly) poor UX.&lt;/p&gt;
 &lt;p&gt;At the other end of the scale is an end user’s idealised vision of a product or service. This is &lt;strong&gt;the mental model&lt;/strong&gt;, the panacea that a user would sketch out on a napkin if they had free reign. Ultimate UX!&lt;/p&gt;
@@ -201,7 +201,7 @@
 &lt;p&gt;(A similar idea – make sure the problem is perfectly articulated and, until it is, don’t get distracted with solutions. Put the problem you’re solving at the heart of everything you do.)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;3. Observe people, don’t just listen to what they say.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;(User research! Critical to the process. Surveys and focus groups alone won’t cut the mustard.)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/NUX4-2015.jpg&quot; alt=&quot;NUX4&quot; title=&quot;NUX4&quot;&gt;&lt;em&gt;NUX4, Manchester, November 2015&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/NUX4-2015.jpg&quot; alt=&quot;NUX4&quot; title=&quot;NUX4&quot;&gt;&lt;em&gt;NUX4, Manchester, November 2015&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&quot;communicating-the-ux-process-to-clients&quot;&gt;Communicating the UX process to clients &lt;a class=&quot;direct-link&quot; href=&quot;#communicating-the-ux-process-to-clients&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Jenny Grinblo from Future Workshops was another experienced and entertaining speaker.&lt;/p&gt;
 &lt;p&gt;Jenny stressed the power of bringing user voices into the boardroom. That might mean video clips or audio clips from user tests – something I can attest is an important and powerful part of the process. What I didn’t realise is that seeing or hearing users’ feelings direct stirs chemicals in the brain. Which chemicals, I can’t recall, but anyway, there’s science behind the idea that a video is worth a thousand reports.&lt;/p&gt;
@@ -281,9 +281,9 @@ The system should always keep users informed about what is going on, through app
 &lt;/ul&gt;
 &lt;h2 id=&quot;seeing-gov.uk%E2%80%99s-user-focused-principles-in-action&quot;&gt;Seeing &lt;a href=&quot;http://gov.uk/&quot;&gt;GOV.UK&lt;/a&gt;’s user-focused principles in action &lt;a class=&quot;direct-link&quot; href=&quot;#seeing-gov.uk%E2%80%99s-user-focused-principles-in-action&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;As a rule, &lt;a href=&quot;http://gov.uk/&quot;&gt;GOV.UK&lt;/a&gt; contains nothing superfluous. Here’s a page relating to applying for a grant of probate, an area of particular interest to me:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/Gov-uk-design-grant-of-probate-768x624.png&quot; alt=&quot;Gov uk design - grant of probate&quot; title=&quot;Gov uk design&quot;&gt; &lt;em&gt;An uncluttered, needs-focused and content-driven page at &lt;a href=&quot;http://gov.uk/&quot;&gt;GOV.UK&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/Gov-uk-design-grant-of-probate-768x624.png&quot; alt=&quot;Gov uk design - grant of probate&quot; title=&quot;Gov uk design&quot;&gt; &lt;em&gt;An uncluttered, needs-focused and content-driven page at &lt;a href=&quot;http://gov.uk/&quot;&gt;GOV.UK&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Contrast the clear, needs-focused design above with a page from the DirectGov service which &lt;a href=&quot;http://gov.uk/&quot;&gt;GOV.UK&lt;/a&gt; replaced:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/direct_gov_uk.png&quot; alt=&quot;Old design for Directgov&quot; title=&quot;DirectGov screenshot&quot;&gt; &lt;em&gt;The cluttered, hard-to-read and unfocussed approach of .gov.uk’s predecessor, Directgov.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/direct_gov_uk.png&quot; alt=&quot;Old design for Directgov&quot; title=&quot;DirectGov screenshot&quot;&gt; &lt;em&gt;The cluttered, hard-to-read and unfocussed approach of .gov.uk’s predecessor, Directgov.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Ultimately, the reason &lt;a href=&quot;http://gov.uk/&quot;&gt;GOV.UK&lt;/a&gt; succeeds is the GDS’s unflinching goal to satisfy users’ needs as simply as possible.&lt;/p&gt;
 &lt;p&gt;Huge credit is also due to the content-writers and editors, condensing often complex and technical subjects into clear, accessible advice. For example, the grant of probate page, above. The GDS’s &lt;a href=&quot;https://www.gov.uk/guidance/content-design/writing-for-gov-uk&quot;&gt;Writing for GOV.UK&lt;/a&gt; guide shows how it’s done.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://gov.uk/&quot;&gt;GOV.UK&lt;/a&gt; &lt;a href=&quot;https://gds.blog.gov.uk/2015/03/06/gov-uk-isnt-finished/&quot;&gt;isn’t perfect&lt;/a&gt;, but attaining such consistent usability is a hugely impressive achievement, and one – precisely because of its simplicity – that’s easy to ignore or under-appreciate.&lt;/p&gt;
@@ -308,12 +308,12 @@ The system should always keep users informed about what is going on, through app
 &lt;p&gt;The central tenet – don’t make users think – concisely encapsulates UX.&lt;/p&gt;
 &lt;p&gt;‘Thinking’ is a barrier to users completing their tasks quickly.&lt;/p&gt;
 &lt;p&gt;Today, my local Sainsbury’s shop made me think. After I finished scanning my items at a self-service checkout and paying by card, I was confronted by the following screen.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/Sainsburys-payment-card-edit.jpg&quot; alt=&quot;UX at Sainsbury&#39;s: stop and think&quot;&gt;&lt;em&gt;UX at a Sainsbury’s self-service checkout: I was made to stop and think&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/Sainsburys-payment-card-edit.jpg&quot; alt=&quot;UX at Sainsbury&#39;s: stop and think&quot;&gt;&lt;em&gt;UX at a Sainsbury’s self-service checkout: I was made to stop and think&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;My instinct was that something had gone wrong. Perhaps I’d entered my PIN incorrectly, or my card had been declined.&lt;/p&gt;
 &lt;p&gt;As it transpired, there was nothing amiss. I was free to remove my card, take my shopping and head home to cook some curry.&lt;/p&gt;
 &lt;p&gt;I had assumed (and I’m guessing I’m not the only one) that the big red encircled exclamation mark indicated an error. Put &lt;a href=&quot;https://www.google.co.uk/search?q=error+message&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=0ahUKEwjH4Kq2tebKAhWBmx4KHS-6Br0Q_AUIBygB&amp;amp;biw=1271&amp;amp;bih=624&amp;amp;dpr=2#tbm=isch&amp;amp;q=error+icon&quot;&gt;‘error icon’ into Google images&lt;/a&gt; and you’ll get a bunch of red circles and a fair few exclamation marks.&lt;/p&gt;
 &lt;p&gt;By breaking convention, the screen had made me think, unnecessarily.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/Sainsburys-payment-card-concept-720x852.jpg&quot; alt=&quot;Alternative approach - better UX?&quot;&gt;&lt;em&gt;Alternative approach – a clearer indication of success?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/Sainsburys-payment-card-concept-720x852.jpg&quot; alt=&quot;Alternative approach - better UX?&quot;&gt;&lt;em&gt;Alternative approach – a clearer indication of success?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;An alternative for Sainsbury’s would be to ensure the screen adheres to basic and long-established conventions about successful interactions. Specifically, the colour green and a big tick.&lt;/p&gt;
 &lt;p&gt;Wording that more clearly indicates system status – by specifying explicitly that payment has been successful – would be good, too.&lt;/p&gt;
 &lt;p&gt;Otherwise (I’ll add, just for balance), the often-maligned self-service experience was excellent.&lt;/p&gt;
@@ -335,7 +335,7 @@ The system should always keep users informed about what is going on, through app
 &lt;p&gt;9 months later, we launched a new version of the portal (Insight), which the development team had significantly overhauled based on my recommendations. 3 months after that, when users had got used to the new system, I sent a follow-up survey with the same benchmarking questions.&lt;/p&gt;
 &lt;h2 id=&quot;benchmarking-results&quot;&gt;Benchmarking results &lt;a class=&quot;direct-link&quot; href=&quot;#benchmarking-results&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;The results were as follows:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/UX-benchmarking-results-table-with-header.png&quot; alt=&quot;UX benchmarking results table &quot;&gt;&lt;em&gt;UX benchmarking results table, showing weighted averages for each survey out of 7&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/UX-benchmarking-results-table-with-header.png&quot; alt=&quot;UX benchmarking results table &quot;&gt;&lt;em&gt;UX benchmarking results table, showing weighted averages for each survey out of 7&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;The average increase was 25.7%. Agreement with the key statement “Overall, I am satisfied with Insight”, increased 32.5%. In a number of cases the level of agreement increased by over 30%.&lt;/p&gt;
 &lt;p&gt;While there is still room for improvement, the percentage increases are significant. They very much indicate a successful project.&lt;/p&gt;
 &lt;p&gt;This was a hugely importance exercise, because:&lt;/p&gt;
@@ -374,7 +374,7 @@ Even better than good error messages is a careful design which prevents a proble
 &lt;p&gt;I recently fell foul of what I consider to be an inexcusable lack of error prevention.&lt;/p&gt;
 &lt;p&gt;Using Apple’s native Mail application on my Macbook, I searched for the out-of-office feature. It doesn’t exist (pity). Apparently I needed to set up a rule, to send a friendly message in reply to any incoming email, letting the sender know I’ll be sunning myself in Norway.&lt;/p&gt;
 &lt;p&gt;All good so far, and one final action for me to take:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/Mac-Mail.png&quot; alt=&quot;The offending window in MacMail - poor error prevention&quot;&gt;&lt;em&gt;The offending window in MacMail – poor error prevention&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/Mac-Mail.png&quot; alt=&quot;The offending window in MacMail - poor error prevention&quot;&gt;&lt;em&gt;The offending window in MacMail – poor error prevention&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Sure, I was in a bit of a hurry to log off and go on holiday, but of course the choice was obvious – I clicked the welcoming blue button.&lt;/p&gt;
 &lt;p&gt;Two minutes later I got a call from my line manager, who was heading home on the train. His phone was going BING, BING, BING, BING, BING, BING, BING, BING, BING, BING – attracting the attention of other commuters, until he switched it to silent, but the emails had kept flooding in. 300 of them or so. (My only saving grace is that I’d only joined the company a couple of months previously, so the number of emails were limited.)&lt;/p&gt;
 &lt;p&gt;I retraced my steps and realised that that enticing blue button had applied my rule to ALL emails in my inbox, which meant a reply had been sent to EVERY email I’d EVER received letting my colleagues (including the CEO and various others) know I’d be on holiday.&lt;/p&gt;
@@ -388,7 +388,7 @@ Even better than good error messages is a careful design which prevents a proble
 &lt;h2 id=&quot;3.-it-shouldn%E2%80%99t-have-been-so-easy.&quot;&gt;3. It shouldn’t have been so easy. &lt;a class=&quot;direct-link&quot; href=&quot;#3.-it-shouldn%E2%80%99t-have-been-so-easy.&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Even if it had to be possible (which it didn’t), it was far too easy for me to click that button, considering the seriousness of the results.&lt;/p&gt;
 &lt;p&gt;There’s plenty of research about &lt;a href=&quot;https://www.nngroup.com/articles/how-little-do-users-read/&quot;&gt;how little people read online&lt;/a&gt;, and the impact and &lt;a href=&quot;https://www.paulolyslager.com/call-to-action-buttons-psychology-color/&quot;&gt;psychology of colours&lt;/a&gt;. So, 100% scientifically, this is what my brain processed when I saw that confirmation window:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/Mac-Mail-blurred-JPEG.jpg&quot; alt=&quot;UX - how the brain processes colours and text&quot;&gt;&lt;em&gt;Scientifically, what my brain processed&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/Mac-Mail-blurred-JPEG.jpg&quot; alt=&quot;UX - how the brain processes colours and text&quot;&gt;&lt;em&gt;Scientifically, what my brain processed&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Putting aside the issue that this result shouldn’t have been possible in the first place, there are options which might reduce the likelihood of errors.&lt;/p&gt;
 &lt;p&gt;For example:&lt;/p&gt;
 &lt;ul&gt;
@@ -420,7 +420,7 @@ Even better than good error messages is a careful design which prevents a proble
 &lt;p&gt;This video is an excellent introduction to CMYK and RGB:&lt;/p&gt;
 &lt;iframe src=&quot;https://www.youtube.com/embed/6gOVHTwJ2mQ&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;Here&#39;s some of the nitty gritty, much of it specific to the latest Adobe CC suite (apologies if you don’t use it):&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/Screen-Shot-2016-06-30-at-21.29.18.png&quot; alt=&quot;Adobe swatches showing RGB and CMYK differences&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/Screen-Shot-2016-06-30-at-21.29.18.png&quot; alt=&quot;Adobe swatches showing RGB and CMYK differences&quot;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;I find it helps to create a swatch library with both RGB and CMYK colours, &lt;a href=&quot;https://helpx.adobe.com/photoshop/using/choosing-colors.html&quot;&gt;using the Adobe CC colour picker&lt;/a&gt;. Above is a screenshot of my swatches: the differences between RGB and CMYK variations are particularly marked in the oranges and greens.&lt;/li&gt;
 &lt;li&gt;Determining the right colours in the first place is more difficult. If you use a designer, ask for CMYK, RGB and hex equivalents for every colour. In our case, we had tremendous difficulty translating our green from RGB to CMYK… turns out green in particular is a pain in the arse when it comes to CMYK. But after experimenting and having a few test runs, we got the right one.&lt;/li&gt;
@@ -431,9 +431,9 @@ Even better than good error messages is a careful design which prevents a proble
 &lt;p&gt;&lt;strong&gt;How to check if a file is CMYK or RGB&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;It can be helpful to do a final check of a file before it’s sent to print.&lt;/p&gt;
 &lt;p&gt;If you’re lucky enough to have the very handy Adobe Acrobat Pro DC and you want to check a file’s colour model, open ‘Tools’, ‘Print production’, then ‘&lt;a href=&quot;https://helpx.adobe.com/acrobat/using/previewing-output-acrobat-pro.html&quot;&gt;Output preview&lt;/a&gt;‘. Under ‘Show’, select ‘CMYK’ – if all the elements on the page (apart from printer marks) remain visible, it’s CMYK. Then select ‘RGB’ – if it’s CMYK, all elements will disappear.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/Screen-Shot-2016-06-30-at-22.11.27.png&quot; alt=&quot;Acrobat Pro output preview showing CMYK&quot;&gt;&lt;em&gt;Above – the output preview in Acrobat showing anything CMYK. The page elements remain visible so they must be CMYK.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/Screen-Shot-2016-06-30-at-22.11.27.png&quot; alt=&quot;Acrobat Pro output preview showing CMYK&quot;&gt;&lt;em&gt;Above – the output preview in Acrobat showing anything CMYK. The page elements remain visible so they must be CMYK.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Also in ‘Output preview’, if you select ‘Preview’ &amp;gt; ‘Separations’, you can hover the cursor over an element on the page to see a breakdown of the CMYK values. Particularly helpful to check for four-colour blacks (see below).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/Screen-Shot-2016-06-30-at-22.09.57.png&quot; alt=&quot;Acrobat Pro output preview showing CMYK colour breakdown&quot;&gt;&lt;em&gt;Above – hovering the cursor (not shown) over a colour in output preview will show the four CMYK values&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/Screen-Shot-2016-06-30-at-22.09.57.png&quot; alt=&quot;Acrobat Pro output preview showing CMYK colour breakdown&quot;&gt;&lt;em&gt;Above – hovering the cursor (not shown) over a colour in output preview will show the four CMYK values&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&quot;2.-black%E2%80%99s-not-necessarily-black&quot;&gt;2. Black’s not necessarily black &lt;a class=&quot;direct-link&quot; href=&quot;#2.-black%E2%80%99s-not-necessarily-black&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Something that looks black on screen might not appear black in print.&lt;/p&gt;
 &lt;p&gt;To achieve blacker blacks and greyer greys, conventional wisdom is to avoid “four colour blacks”. That’s a black or grey made up of four CMYK values, e.g. C75 M67 Y67 K89. Instead, it’s often best to ensure blacks have a “K” value alone – e.g. C0 M0 Y0 K100.&lt;/p&gt;
@@ -442,15 +442,15 @@ Even better than good error messages is a careful design which prevents a proble
 &lt;p&gt;Getting the right export settings (below) is also crucial.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;How to identify four-colour and one-colour blacks&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;It’s often helpful to check the blacks in a file after export. Using Adobe Acrobat Pro DC, under tools, choose ‘Print production’ and then ‘Output preview’. Select a CMYK profile from ‘Simulation profile’, e.g. Coated FOGRA39. In the preview section, select ‘Separations’. If you untick ‘Process Black’, all one-colour blacks will be removed, and all four-colour blacks will remain.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/Screen-Shot-2016-06-30-at-22.16.30.png&quot; alt=&quot;Acrobat Pro output preview separations&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/Screen-Shot-2016-06-30-at-22.16.30.png&quot; alt=&quot;Acrobat Pro output preview separations&quot;&gt;&lt;/p&gt;
 &lt;p&gt;1. Above – Acrobat Pro output preview showing all four parts of CMYK, so every element on the page is visible.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/Screen-Shot-2016-06-30-at-22.16.39.png&quot; alt=&quot;Acrobat Pro output preview separations&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/Screen-Shot-2016-06-30-at-22.16.39.png&quot; alt=&quot;Acrobat Pro output preview separations&quot;&gt;&lt;/p&gt;
 &lt;p&gt;2. Above – ‘Process Black’ has been unticked, so all genuine one colour blacks disappear (only elements made up of cyan, magenta and yellow remain, like the orange headings).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/Screen-Shot-2016-06-30-at-22.16.52.png&quot; alt=&quot;Acrobat Pro output preview separations&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/Screen-Shot-2016-06-30-at-22.16.52.png&quot; alt=&quot;Acrobat Pro output preview separations&quot;&gt;&lt;/p&gt;
 &lt;p&gt;3. Above – Oops… on this page, some cheeky grey lines remain, which means they can’t be one-colour. This needs fixing, so it’s back to the original document to sort it out.&lt;/p&gt;
 &lt;h2 id=&quot;3.-the-right-software%2C-the-right-export-settings&quot;&gt;3. The right software, the right export settings &lt;a class=&quot;direct-link&quot; href=&quot;#3.-the-right-software%2C-the-right-export-settings&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;For brochures and other documents, I use Adobe Indesign CC. In terms of colours, ‘Output’ is an important part of the ‘Export’ settings. To ensure a document exports as CMYK: for ‘Color conversion’ select ‘Convert to destination’; for destination I use ‘Document CMYK’ (which takes the current working space from the document settings, which for me is ‘Coated FOGRA39 (ISO 12646-2:2004)’); for ‘Profile inclusion policy’ I use ‘Don’t include profiles’.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/Screen-Shot-2016-06-30-at-22.30.20.png&quot; alt=&quot;Adobe export settings&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/Screen-Shot-2016-06-30-at-22.30.20.png&quot; alt=&quot;Adobe export settings&quot;&gt;&lt;/p&gt;
 &lt;h2 id=&quot;4.-find-a-friendly-printer&quot;&gt;4. Find a friendly printer &lt;a class=&quot;direct-link&quot; href=&quot;#4.-find-a-friendly-printer&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;A good relationship with your print professional helps enormously – they can identify problems and suggest solutions before the print run.&lt;/p&gt;
 &lt;p&gt;This is just the tip of the iceberg. There’s paper stock, finish, bleed, trim, slug, litho vs digital (for more information on litho vs digital, &lt;a href=&quot;https://www.youtube.com/watch?v=RW1HJdW5XLs&quot;&gt;check out this video and others from the same channel&lt;/a&gt;), etc etc. But achieving the right colours and blacks is a great place to start.&lt;/p&gt;
@@ -479,7 +479,7 @@ Even better than good error messages is a careful design which prevents a proble
 &lt;/ul&gt;
 &lt;p&gt;To paraphrase, an error message should tell a user clearly what the f**k is going on and what to do about it.&lt;/p&gt;
 &lt;p&gt;For example, take the following display, snapped on my phone in Manchester Airport’s departure lounge before Christmas, an hour or so before our flight was cancelled (poor us).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/Airport-error-message-smaller.jpg&quot; alt=&quot;Airport error message UX&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/Airport-error-message-smaller.jpg&quot; alt=&quot;Airport error message UX&quot;&gt;&lt;/p&gt;
 &lt;p&gt;The message, in the centre of a blank display which should have shown flight departure times:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;is useless to its intended audience (ordinary human beings), as it is filled with techno-babble&lt;/li&gt;
@@ -495,7 +495,7 @@ Even better than good error messages is a careful design which prevents a proble
 &lt;p&gt;“It’s always more important to be clear than entertaining. When you’re writing, consider the reader’s state of mind. Are they relieved to be finished with a campaign? Are they confused and seeking our help on Twitter? Are they curious about a post on our blog? Once you have an idea of their emotional state, you can adjust your tone accordingly.”&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;So does Mailchimp’s current 404 error message breach its own rules? You decide…&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/Screen-Shot-2017-01-12-at-21.41.48.png&quot; alt=&quot;Mailchimp 404 error message&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/Screen-Shot-2017-01-12-at-21.41.48.png&quot; alt=&quot;Mailchimp 404 error message&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Green swamp-monster not withstanding, Mailchimp’s error message is readable, concise and offers a clear next step (the navigation or search box) – unlike the message in the airport.&lt;/p&gt;
 </content>
 	</entry>
@@ -509,7 +509,7 @@ Even better than good error messages is a careful design which prevents a proble
 &lt;p&gt;UX methodology avoids ‘ISLAGIATT’ projects.&lt;/p&gt;
 &lt;p&gt;It starts with the tenet that a business doesn’t necessarily know what its users want. But more than that: users don’t necessarily want what they ask for. That’s not as counter-intuitive as it might seem: though UX is firmly rooted in user evidence, that’s not synonymous with what they say they want.&lt;/p&gt;
 &lt;p&gt;My favourite example of this is an experiment run by Petter Johansson, a cognitive science researcher at Lund University. &lt;a href=&quot;https://explorable.com/choice-blindness&quot;&gt;As explained by Petter and his colleague Lars Hall&lt;/a&gt;, two cards of same-gender faces were placed in front of participants. They were asked which face they found more attractive. Unbeknownst to participants, the moderator was a magician who, with slight of hand, presented the participants with the face they rejected. They were then asked to explain their choice.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/Choice-blindness-face-card-experiment.jpg&quot; alt=&quot;Choice blindness face card experiment&quot;&gt;&lt;em&gt;The choice blindness experiment is a useful lesson for UX practitioners&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/Choice-blindness-face-card-experiment.jpg&quot; alt=&quot;Choice blindness face card experiment&quot;&gt;&lt;em&gt;The choice blindness experiment is a useful lesson for UX practitioners&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;75% of the time, participants were blind to the mismatch. Furthermore, the majority proceeded to give detailed reasons why they choose that face over the other, one remarking “I prefer blondes” (he’d chosen a brunette). Johansson calls this ‘choice blindness’.&lt;/p&gt;
 &lt;p&gt;To give another example, perhaps I’m designing the information architecture for a clothing e-commerce site. I present someone with a random list of all clothing categories and I ask them to find ‘shoes’. Understandably, they say – ‘I wish these were in alphabetical order’. However, that doesn’t mean that laying out categories alphabetically is the best approach for the website. What if a visitor wants to find a suitable gift for Christmas, or something cool for summer?&lt;/p&gt;
 &lt;p&gt;Understanding that users don’t necessarily ask for precisely what they want is a small piece in the long and broad road to great UX.&lt;/p&gt;
@@ -613,9 +613,9 @@ Even better than good error messages is a careful design which prevents a proble
 &lt;p&gt;Tuesday was an odd one. We had our weekly All Hands at 10:30 – where we all gather round in the office (or dial in, if remote) and run through company performance and news from different teams. I gave up an update for the Probate Product team, something I’d done many times before. This time, I was hit by a wave of minor panic – I felt vulnerable and self-conscious, and I could hear my voice wavering. Sometimes I can be relaxed and confident when speaking in front of others; other times not. It could simply be that the Farewill team is growing fast – now, an All Hands update means speaking in front of 40 people. Whatever the cause, this wobble has been on my mind for the last few days (without any helpful conclusions).&lt;/p&gt;
 &lt;h2 id=&quot;the-joy-of-illustrations&quot;&gt;The joy of illustrations &lt;a class=&quot;direct-link&quot; href=&quot;#the-joy-of-illustrations&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Farewill is rebranding and &lt;a href=&quot;https://probate.farewill.com/&quot;&gt;our probate website&lt;/a&gt; was updated this week. It’s been such a pleasure to work on. As always, I’ve tried to run things as collaboratively and openly, and we’ve had fantastic input from lots of the wider Farewill team. Not least from &lt;a href=&quot;https://twitter.com/missycharity?lang=en-gb&quot;&gt;Anna Charity&lt;/a&gt; and Louis Buck who provided incredible illustrations which convey tricky concepts simply and visually. The illustration at the top of our &lt;a href=&quot;https://probate.farewill.com/help/what-is-probate&quot;&gt;‘What is probate?’ page&lt;/a&gt; is wonderful (if you follow the link on mobile you might not see it).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/probate-website-design-2.png&quot; alt=&quot;Farewill probate website screenshot&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/probate-website-design-2.png&quot; alt=&quot;Farewill probate website screenshot&quot;&gt;&lt;/p&gt;
 &lt;p&gt;I’m also in love with the brush strokes between sections on the &lt;a href=&quot;https://probate.farewill.com/&quot;&gt;home page&lt;/a&gt; (on larger screens), crafted by Emily Isacke. It’s the sort of detail that is easy not to bother with, but these things make a difference. Although it is &lt;em&gt;such&lt;/em&gt; a designery thing to hone in on (sorry…).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/probate-website-design-1.png&quot; alt=&quot;Farewill probate website screenshot&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/probate-website-design-1.png&quot; alt=&quot;Farewill probate website screenshot&quot;&gt;&lt;/p&gt;
 &lt;h2 id=&quot;the-importance-of-a-name&quot;&gt;The importance of a name &lt;a class=&quot;direct-link&quot; href=&quot;#the-importance-of-a-name&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Also this week I’ve been working on our blossoming internal sales and customer tool. As of yet it doesn’t have a name. Hardly the most important point you might think, but the lack of identity is beginning to cause confusion. It’s been variously described as our ‘call tool’, ‘ICT’ (Initial Call Tool / Internal Call Tool), ‘admin tool’, ‘customer admin tool’ and probably a dozen other things. That was fine for a while, but it needs clarifying.&lt;/p&gt;
 &lt;p&gt;So I sent round a survey for ideas. Some of the more questionable responses so far include Data Entry and Administration Database (it’s all about the acronym), Winternal Tool and Dan. The search continues…&lt;/p&gt;

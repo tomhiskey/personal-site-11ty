@@ -89,7 +89,7 @@ module.exports = function(eleventyConfig) {
 
     // These are all optional, defaults are shown:
     dir: {
-      input: ".",
+      input: ".", // was . //
       includes: "_includes",
       data: "_data",
       output: "docs" // was _site, I changed for github
