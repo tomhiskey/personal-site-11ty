@@ -1,6 +1,6 @@
 ---
 title: I rebuilt my website the hard way
-description: My ...
+description: I've been painfully aware for some time that some of my technical knowledge...
 date: 2019-12-30
 layout: layouts/post.njk
 ---
