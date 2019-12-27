@@ -647,7 +647,7 @@ Even better than good error messages is a careful design which prevents a proble
 		<updated>2019-12-31T00:00:00-00:00</updated>
 		<id>https://www.tomhiskey.co.uk/personal-site-11ty/posts/deploying%20eleventy%20to%20github%20pages%20-%20another%20method/</id>
 		<content type="html">&lt;p&gt;I used Eleventy to rebuild my personal website, and had a bit a headache getting it deployed to GitHub Pages.&lt;/p&gt;
-&lt;p&gt;There&#39;s not much guidance online. Jonathan Snook has written about &lt;a href=&quot;https://snook.ca/archives/servers/deploying-11ty-to-gh-pages&quot;&gt;deploying an 11ty site to GitHub Pages&lt;/a&gt; - but rightly or wrongly I thought I&#39;d try and cobble together a different approach that doesn&#39;t involve using Travis CI for the build.&lt;/p&gt;
+&lt;p&gt;There&#39;s not much guidance online. Jonathan Snook has written about &lt;a href=&quot;https://snook.ca/archives/servers/deploying-11ty-to-gh-pages&quot;&gt;deploying an 11ty site to GitHub Pages&lt;/a&gt; - but it felt a little daunting to me so I thought I&#39;d try and cobble together a different approach that doesn&#39;t involve using Travis CI for the build.&lt;/p&gt;
 &lt;p&gt;I&#39;m very new to all of this so I&#39;m not sure what&#39;s best, but here&#39;s how I ended up doing it - hopefully it&#39;s helpful, and I&#39;d be interested to know if I could have done it better.&lt;/p&gt;
 &lt;h2 id=&quot;1---build-locally-and-get-everything-on-github&quot;&gt;1 - Build locally and get everything on GitHub &lt;a class=&quot;direct-link&quot; href=&quot;#1---build-locally-and-get-everything-on-github&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Unlike Jonathan Snook&#39;s method, I built the site locally and published it to GitHub.&lt;/p&gt;
@@ -656,17 +656,49 @@ Even better than good error messages is a careful design which prevents a proble
 &lt;pre&gt;&lt;code&gt;_site/
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;That means the content of the local site (in the _site folder) gets pushed to GitHub.&lt;/p&gt;
-&lt;h2 id=&quot;2---tell-github-pages-i&#39;m-not-using-jekyll&quot;&gt;2 - Tell GitHub Pages I&#39;m not using Jekyll &lt;a class=&quot;direct-link&quot; href=&quot;#2---tell-github-pages-i&#39;m-not-using-jekyll&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Now the&lt;/p&gt;
-&lt;h2 id=&quot;2---tell-github-pages-i&#39;m-not-using-jekyll-2&quot;&gt;2 - Tell GitHub Pages I&#39;m not using Jekyll &lt;a class=&quot;direct-link&quot; href=&quot;#2---tell-github-pages-i&#39;m-not-using-jekyll-2&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Now the&lt;/p&gt;
-&lt;h2 id=&quot;3---set-the-build-directory-to-%2Fdocs%2F&quot;&gt;3 - Set the build directory to /docs/ &lt;a class=&quot;direct-link&quot; href=&quot;#3---set-the-build-directory-to-%2Fdocs%2F&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;--&lt;/p&gt;
+&lt;h2 id=&quot;2---set-up-github-pages-and-set-the-build-directory-to-%2Fdocs%2F&quot;&gt;2 - Set up GitHub Pages and set the build directory to /docs/ &lt;a class=&quot;direct-link&quot; href=&quot;#2---set-up-github-pages-and-set-the-build-directory-to-%2Fdocs%2F&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I set up GitHub Pages for the respository &lt;a href=&quot;https://guides.github.com/features/pages/&quot;&gt;as described here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For the &#39;Source&#39;, I picked the &#39;docs&#39; folder in the master branch.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/github-pages-settings.png&quot; alt=&quot;GitHub Pages settings&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;3---tell-github-pages-i&#39;m-not-using-jekyll&quot;&gt;3 - Tell GitHub Pages I&#39;m not using Jekyll &lt;a class=&quot;direct-link&quot; href=&quot;#3---tell-github-pages-i&#39;m-not-using-jekyll&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;GitHub Pages seemed to be getting confused that I wasn&#39;t using Jekyll (I was getting build error emails). So &lt;a href=&quot;https://help.github.com/en/github/working-with-github-pages/about-github-pages#static-site-generators&quot;&gt;as described here&lt;/a&gt; I added a blank file called .nojekyll.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/nojekyll.png&quot; alt=&quot;Adding .nojekyll file&quot;&gt;&lt;/p&gt;
 &lt;h2 id=&quot;4---change-the-11ty-output-directory-to-%2Fdocs%2F&quot;&gt;4 - Change the 11ty output directory to /docs/ &lt;a class=&quot;direct-link&quot; href=&quot;#4---change-the-11ty-output-directory-to-%2Fdocs%2F&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;--&lt;/p&gt;
+&lt;p&gt;Nothing was working yet because Eleventy builds sites to the _site folder by default, whereas GitHub pages was looking for the /docs folder (see #2).&lt;/p&gt;
+&lt;p&gt;So I &lt;a href=&quot;https://v0-7-1.11ty.dev/docs/config/#output-directory&quot;&gt;followed the instructions here&lt;/a&gt; to change Eleventy&#39;s output folder. This is the relevant bit in eleventy.js:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;dir: {
+      input: &amp;quot;.&amp;quot;, // was . //
+      includes: &amp;quot;_includes&amp;quot;,
+      data: &amp;quot;_data&amp;quot;,
+      output: &amp;quot;docs&amp;quot; // was _site, I changed for github
+    }
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&quot;5---change-the-site-prefix&quot;&gt;5 - Change the site prefix &lt;a class=&quot;direct-link&quot; href=&quot;#5---change-the-site-prefix&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Once I&#39;d pushed everything to GitHub, the site appeared on GitHub Pages! But it looked like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/eleventy-github-pages-site-prefix.png&quot; alt=&quot;Adding .nojekyll file&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Links to my CSS, my .js file and images were broken.&lt;/p&gt;
+&lt;p&gt;So &lt;a href=&quot;https://v0-7-1.11ty.dev/docs/config/#deploy-to-a-subdirectory-with-a-path-prefix&quot;&gt;as described here&lt;/a&gt;, I headed back to eleventy.js and changed my site&#39;s path prefix to match my respository name. This is the relevant bit:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    pathPrefix: &amp;quot;/personal-site-11ty/&amp;quot;,  
+    // I un-commented this and updated it to try and make github pages work
+&lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&quot;5---change-the-path-for-images&quot;&gt;5 - Change the path for images &lt;a class=&quot;direct-link&quot; href=&quot;#5---change-the-path-for-images&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;And js&lt;br&gt;
-Find and replace&lt;/p&gt;
+&lt;p&gt;That fixed a lot, but not my .js file or images.&lt;/p&gt;
+&lt;p&gt;So I headed to base.njk and found the reference to the .js file. I added the URL prefix manually.&lt;/p&gt;
+&lt;p&gt;I.e. I changed this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    &amp;lt;script src=&amp;quot;/css/script.js&amp;quot; defer=&amp;quot;defer&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;to this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    &amp;lt;script src=&amp;quot;/personal-site-11ty/css/script.js&amp;quot; defer=&amp;quot;defer&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;For the images, I did a find and replace.&lt;/p&gt;
+&lt;p&gt;I found all instances of this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;/img/
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;and replaced them with this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;/personal-site-11ty/img/
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;That did the trick.&lt;/p&gt;
+&lt;p&gt;It took a lot of time and Googling to figure out. I&#39;m not at all sure if it&#39;s a sensible method but it worked for me.&lt;/p&gt;
 </content>
 	</entry>
 </feed>
