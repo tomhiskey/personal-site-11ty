@@ -49,12 +49,19 @@
         <div>
 🗓 <div class="date">31 Dec 2019</div>
 <p>I used Eleventy to rebuild my personal website, and had a bit a headache getting it deployed to GitHub Pages.</p>
-<p>There's not much guidance online. Jonathan Snook has written about deploying an 11ty site to GitHub Pages <a href="https://snook.ca/archives/servers/deploying-11ty-to-gh-pages">https://snook.ca/archives/servers/deploying-11ty-to-gh-pages</a> - but rightly or wrongly I thought I'd try and cobble together a different approach that doesn't involve using Travis CI for the build.</p>
+<p>There's not much guidance online. Jonathan Snook has written about <a href="https://snook.ca/archives/servers/deploying-11ty-to-gh-pages">deploying an 11ty site to GitHub Pages</a> - but rightly or wrongly I thought I'd try and cobble together a different approach that doesn't involve using Travis CI for the build.</p>
 <p>I'm very new to all of this so I'm not sure what's best, but here's how I ended up doing it - hopefully it's helpful, and I'd be interested to know if I could have done it better.</p>
-<h2 id="1---get-everything-on-github">1 - Get everything on GitHub <a class="direct-link" href="#1---get-everything-on-github">#</a></h2>
-<p>--</p>
+<h2 id="1---build-locally-and-get-everything-on-github">1 - Build locally and get everything on GitHub <a class="direct-link" href="#1---build-locally-and-get-everything-on-github">#</a></h2>
+<p>Unlike Jonathan Snook's method, I built the site locally and published it to GitHub.</p>
+<p>By default, Eleventy won't publish the local build to GitHub.</p>
+<p>So I found .gitignore and removed this line:</p>
+<pre><code>_site/
+</code></pre>
+<p>That means the content of the local site (in the _site folder) gets pushed to GitHub.</p>
 <h2 id="2---tell-github-pages-i'm-not-using-jekyll">2 - Tell GitHub Pages I'm not using Jekyll <a class="direct-link" href="#2---tell-github-pages-i'm-not-using-jekyll">#</a></h2>
-<p>--</p>
+<p>Now the</p>
+<h2 id="2---tell-github-pages-i'm-not-using-jekyll-2">2 - Tell GitHub Pages I'm not using Jekyll <a class="direct-link" href="#2---tell-github-pages-i'm-not-using-jekyll-2">#</a></h2>
+<p>Now the</p>
 <h2 id="3---set-the-build-directory-to-%2Fdocs%2F">3 - Set the build directory to /docs/ <a class="direct-link" href="#3---set-the-build-directory-to-%2Fdocs%2F">#</a></h2>
 <p>--</p>
 <h2 id="4---change-the-11ty-output-directory-to-%2Fdocs%2F">4 - Change the 11ty output directory to /docs/ <a class="direct-link" href="#4---change-the-11ty-output-directory-to-%2Fdocs%2F">#</a></h2>
