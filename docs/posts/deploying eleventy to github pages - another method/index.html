@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deploying Eleventy to GitHub Pages - another method</title>
+    <meta name="Description" content="I used Eleventy to rebuild my website, and had a bit a headache getting it deployed...">
+    <link rel="stylesheet" href="/personal-site-11ty/css/index.css">
+    <link rel="stylesheet" href="/personal-site-11ty/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/personal-site-11ty/feed/feed.xml" type="application/atom+xml" title="Tom Hiskey">
+    <script src="/personal-site-11ty/css/script.js" defer="defer"></script>
+    <!-- for burger menu -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+  </head>
+  <body>
+    <header>
+
+      <div class="topnav" id="myTopnav">
+        <div class="navbar-brand">
+          <div class="title">
+            <a href="/personal-site-11ty/">Tom Hiskey</a>
+          </div>
+        </div>
+
+        <div class="navbar-nav">
+          <div class="responsive-nav">
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+              Menu
+              <i class="fa fa-bars"></i>
+            </a>
+            <ul class="nav"><li class="nav-item"><a href="/personal-site-11ty/">Home</a></li>
+<li class="nav-item"><a href="/personal-site-11ty/blog/">Blog</a></li>
+<li class="nav-item"><a href="/personal-site-11ty/user-manual/">User manual</a></li>
+<li class="nav-item"><a href="/personal-site-11ty/contact/">Contact</a></li></ul>
+          </div>
+        </div>
+      </div>
+
+    </header>
+
+    <div class="content">
+      <main>
+
+        <h1>Deploying Eleventy to GitHub Pages - another method</h1>
+
+<div class="wrapper">
+        
+        <div></div>
+        <div>
+🗓 <div class="date">31 Dec 2019</div>
+<p>I used Eleventy to rebuild my personal website, and had a bit a headache getting it deployed to GitHub Pages.</p>
+<p>There's not much guidance online. Jonathan Snook has written about deploying an 11ty site to GitHub Pages <a href="https://snook.ca/archives/servers/deploying-11ty-to-gh-pages">https://snook.ca/archives/servers/deploying-11ty-to-gh-pages</a> - but rightly or wrongly I thought I'd try and cobble together a different approach that doesn't involve using Travis CI for the build.</p>
+<p>I'm very new to all of this so I'm not sure what's best, but here's how I ended up doing it - hopefully it's helpful, and I'd be interested to know if I could have done it better.</p>
+<h2 id="1---get-everything-on-github">1 - Get everything on GitHub <a class="direct-link" href="#1---get-everything-on-github">#</a></h2>
+<p>--</p>
+<h2 id="2---tell-github-pages-i'm-not-using-jekyll">2 - Tell GitHub Pages I'm not using Jekyll <a class="direct-link" href="#2---tell-github-pages-i'm-not-using-jekyll">#</a></h2>
+<p>--</p>
+<h2 id="3---set-the-build-directory-to-%2Fdocs%2F">3 - Set the build directory to /docs/ <a class="direct-link" href="#3---set-the-build-directory-to-%2Fdocs%2F">#</a></h2>
+<p>--</p>
+<h2 id="4---change-the-11ty-output-directory-to-%2Fdocs%2F">4 - Change the 11ty output directory to /docs/ <a class="direct-link" href="#4---change-the-11ty-output-directory-to-%2Fdocs%2F">#</a></h2>
+<p>--</p>
+<h2 id="5---change-the-path-for-images">5 - Change the path for images <a class="direct-link" href="#5---change-the-path-for-images">#</a></h2>
+<p>And js<br>
+Find and replace</p>
+
+
+<p><a href="/personal-site-11ty/">← Home</a></p>
+
+</div>
+<div></div>
+</div>
+      </main>
+
+      <footer>
+        Tom Hiskey
+        <script>
+          document.write(new Date().getFullYear());
+        </script>
+        <div style="float: right;"><a href="http://www.twitter.com/tomhiskey" target="_blank">Twitter</a> · 
+        <a href="https://www.linkedin.com/in/tom-hiskey-79390822/" target="_blank">Linkedin</a></footer></div>
+
+    </div>
+    <!-- Current page: /personal-site-11ty/posts/deploying eleventy to github pages - another method/ -->
+  </body>
+</html>

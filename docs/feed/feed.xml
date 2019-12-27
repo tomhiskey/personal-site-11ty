@@ -4,7 +4,7 @@
 	<subtitle>Digital product designer</subtitle>
 	<link href="https://www.tomhiskey.co.uk/feed/feed.xml" rel="self"/>
 	<link href="https://www.tomhiskey.co.uk/"/>
-	<updated>2019-12-30T00:00:00-00:00</updated>
+	<updated>2019-12-31T00:00:00-00:00</updated>
 	<id>https://www.tomhiskey.co.uk/</id>
 	<author>
 		<name>Tom Hiskey</name>
@@ -638,6 +638,28 @@ Even better than good error messages is a careful design which prevents a proble
 		<updated>2019-12-30T00:00:00-00:00</updated>
 		<id>https://www.tomhiskey.co.uk/personal-site-11ty/posts/yearnotes-2019/</id>
 		<content type="html">&lt;p&gt;So... test&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Deploying Eleventy to GitHub Pages - another method</title>
+		<link href="https://www.tomhiskey.co.uk/personal-site-11ty/posts/deploying%20eleventy%20to%20github%20pages%20-%20another%20method/"/>
+		<updated>2019-12-31T00:00:00-00:00</updated>
+		<id>https://www.tomhiskey.co.uk/personal-site-11ty/posts/deploying%20eleventy%20to%20github%20pages%20-%20another%20method/</id>
+		<content type="html">&lt;p&gt;I used Eleventy to rebuild my personal website, and had a bit a headache getting it deployed to GitHub Pages.&lt;/p&gt;
+&lt;p&gt;There&#39;s not much guidance online. Jonathan Snook has written about deploying an 11ty site to GitHub Pages &lt;a href=&quot;https://snook.ca/archives/servers/deploying-11ty-to-gh-pages&quot;&gt;https://snook.ca/archives/servers/deploying-11ty-to-gh-pages&lt;/a&gt; - but rightly or wrongly I thought I&#39;d try and cobble together a different approach that doesn&#39;t involve using Travis CI for the build.&lt;/p&gt;
+&lt;p&gt;I&#39;m very new to all of this so I&#39;m not sure what&#39;s best, but here&#39;s how I ended up doing it - hopefully it&#39;s helpful, and I&#39;d be interested to know if I could have done it better.&lt;/p&gt;
+&lt;h2 id=&quot;1---get-everything-on-github&quot;&gt;1 - Get everything on GitHub &lt;a class=&quot;direct-link&quot; href=&quot;#1---get-everything-on-github&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;h2 id=&quot;2---tell-github-pages-i&#39;m-not-using-jekyll&quot;&gt;2 - Tell GitHub Pages I&#39;m not using Jekyll &lt;a class=&quot;direct-link&quot; href=&quot;#2---tell-github-pages-i&#39;m-not-using-jekyll&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;h2 id=&quot;3---set-the-build-directory-to-%2Fdocs%2F&quot;&gt;3 - Set the build directory to /docs/ &lt;a class=&quot;direct-link&quot; href=&quot;#3---set-the-build-directory-to-%2Fdocs%2F&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;h2 id=&quot;4---change-the-11ty-output-directory-to-%2Fdocs%2F&quot;&gt;4 - Change the 11ty output directory to /docs/ &lt;a class=&quot;direct-link&quot; href=&quot;#4---change-the-11ty-output-directory-to-%2Fdocs%2F&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;h2 id=&quot;5---change-the-path-for-images&quot;&gt;5 - Change the path for images &lt;a class=&quot;direct-link&quot; href=&quot;#5---change-the-path-for-images&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;And js&lt;br&gt;
+Find and replace&lt;/p&gt;
 </content>
 	</entry>
 </feed>
