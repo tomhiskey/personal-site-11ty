@@ -21,7 +21,7 @@ So I learned about them with things like the fun [CSS Grid Garden](https://cssgr
 
 Glitch was so easy and fun - it seems like such a great way to try things.
 
-## 3 - Get Visual Studio Code to build a static site
+## 3 - Get Visual Studio Code and work out git stuff
 
 It was time to delve into the murky (for me) world of code editors and Terminal. So I got Visual Studio Code, which everyone seems to be using (I'm sure that's not true).
 

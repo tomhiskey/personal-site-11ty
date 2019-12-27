@@ -636,7 +636,7 @@ Even better than good error messages is a careful design which prevents a proble
 &lt;p&gt;I&#39;m comfortable enough with CSS but my knowledge is 10 years old. I&#39;d never used &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout&quot;&gt;CSS grids&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;So I learned about them with things like the fun &lt;a href=&quot;https://cssgridgarden.com/&quot;&gt;CSS Grid Garden&lt;/a&gt;. And I messed around with them using Glitch (&lt;a href=&quot;https://gaudy-apostosaurus.glitch.me/blog.html&quot;&gt;here&#39;s my test site&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;Glitch was so easy and fun - it seems like such a great way to try things.&lt;/p&gt;
-&lt;h2 id=&quot;3---get-visual-studio-code-to-build-a-static-site&quot;&gt;3 - Get Visual Studio Code to build a static site &lt;a class=&quot;direct-link&quot; href=&quot;#3---get-visual-studio-code-to-build-a-static-site&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;3---get-visual-studio-code-and-work-out-git-stuff&quot;&gt;3 - Get Visual Studio Code and work out git stuff &lt;a class=&quot;direct-link&quot; href=&quot;#3---get-visual-studio-code-and-work-out-git-stuff&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;It was time to delve into the murky (for me) world of code editors and Terminal. So I got Visual Studio Code, which everyone seems to be using (I&#39;m sure that&#39;s not true).&lt;/p&gt;
 &lt;h2 id=&quot;4---install-jekyll-and-run-through-the-tutorial&quot;&gt;4 - Install Jekyll and run through the tutorial &lt;a class=&quot;direct-link&quot; href=&quot;#4---install-jekyll-and-run-through-the-tutorial&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;This&lt;/p&gt;
@@ -644,7 +644,6 @@ Even better than good error messages is a careful design which prevents a proble
 &lt;p&gt;I understand from &lt;a href=&quot;https://twitter.com/charlotte_dann?lang=en&quot;&gt;Charlotte Dann&lt;/a&gt; that Eleventy is the static site generator that the cool kids are using.&lt;/p&gt;
 &lt;p&gt;So&lt;/p&gt;
 &lt;h2 id=&quot;6---tweak%2C-tweak%2C-tweak-and-deploy&quot;&gt;6 - Tweak, tweak, tweak and deploy &lt;a class=&quot;direct-link&quot; href=&quot;#6---tweak%2C-tweak%2C-tweak-and-deploy&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;h2 id=&quot;7&quot;&gt;7 &lt;a class=&quot;direct-link&quot; href=&quot;#7&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 </content>
 	</entry>
 	
