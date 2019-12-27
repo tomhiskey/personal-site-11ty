@@ -642,13 +642,13 @@ Even better than good error messages is a careful design which prevents a proble
 	</entry>
 	
 	<entry>
-		<title>Deploying Eleventy to GitHub Pages - another method</title>
-		<link href="https://www.tomhiskey.co.uk/personal-site-11ty/posts/deploying-eleventy-to-github-pages-another-method/"/>
+		<title>Deploying Eleventy to GitHub Pages - one way of doing it</title>
+		<link href="https://www.tomhiskey.co.uk/personal-site-11ty/posts/deploying-eleventy-to-github-pages-one-way/"/>
 		<updated>2019-12-31T00:00:00-00:00</updated>
-		<id>https://www.tomhiskey.co.uk/personal-site-11ty/posts/deploying-eleventy-to-github-pages-another-method/</id>
+		<id>https://www.tomhiskey.co.uk/personal-site-11ty/posts/deploying-eleventy-to-github-pages-one-way/</id>
 		<content type="html">&lt;p&gt;I used Eleventy to rebuild my personal website, and had a bit a headache getting it deployed to GitHub Pages.&lt;/p&gt;
 &lt;p&gt;There&#39;s not much guidance online. Jonathan Snook has written about &lt;a href=&quot;https://snook.ca/archives/servers/deploying-11ty-to-gh-pages&quot;&gt;deploying an 11ty site to GitHub Pages&lt;/a&gt; - but it felt a little daunting to me so I thought I&#39;d try and cobble together a different approach that doesn&#39;t involve using Travis CI for the build.&lt;/p&gt;
-&lt;p&gt;I&#39;m very new to all of this so I&#39;m not sure what&#39;s best, but here&#39;s how I ended up doing it - hopefully it&#39;s helpful, and I&#39;d be interested to know if I could have done it better.&lt;/p&gt;
+&lt;p&gt;I&#39;m very new to all of this so I&#39;m not sure what&#39;s best, but here&#39;s how I ended up doing it - hopefully it&#39;s helpful for anyone hoping to use Eleventy and GitHub pages. I&#39;d be interested to know if I could have done it better.&lt;/p&gt;
 &lt;h2 id=&quot;1---build-locally-and-get-everything-on-github&quot;&gt;1 - Build locally and get everything on GitHub &lt;a class=&quot;direct-link&quot; href=&quot;#1---build-locally-and-get-everything-on-github&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Unlike Jonathan Snook&#39;s method, I built the site locally and published it to GitHub.&lt;/p&gt;
 &lt;p&gt;By default, Eleventy won&#39;t publish the local build to GitHub.&lt;/p&gt;

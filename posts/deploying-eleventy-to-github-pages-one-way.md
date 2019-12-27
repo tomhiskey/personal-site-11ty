@@ -1,5 +1,5 @@
 ---
-title: Deploying Eleventy to GitHub Pages - another method
+title: Deploying Eleventy to GitHub Pages - one way of doing it
 description: I used Eleventy to rebuild my website, and had a bit a headache getting it deployed...
 date: 2019-12-31
 layout: layouts/post.njk
@@ -9,7 +9,7 @@ I used Eleventy to rebuild my personal website, and had a bit a headache getting
 
 There's not much guidance online. Jonathan Snook has written about [deploying an 11ty site to GitHub Pages](https://snook.ca/archives/servers/deploying-11ty-to-gh-pages) - but it felt a little daunting to me so I thought I'd try and cobble together a different approach that doesn't involve using Travis CI for the build. 
 
-I'm very new to all of this so I'm not sure what's best, but here's how I ended up doing it - hopefully it's helpful, and I'd be interested to know if I could have done it better.
+I'm very new to all of this so I'm not sure what's best, but here's how I ended up doing it - hopefully it's helpful for anyone hoping to use Eleventy and GitHub pages. I'd be interested to know if I could have done it better.
 
 ## 1 - Build locally and get everything on GitHub
 
