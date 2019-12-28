@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>I rebuilt my website the hard way</title>
-    <meta name="Description" content="I&#39;ve been painfully aware for some time that some of my technical knowledge...">
+    <meta name="Description" content="Static site generators, Nunjucks, Git, Jekyll, Terminal, code editors... my knowledge of this sort...">
     <link rel="stylesheet" href="/personal-site-11ty/css/index.css">
     <link rel="stylesheet" href="/personal-site-11ty/css/prism-base16-monokai.dark.css">
     <link rel="alternate" href="/personal-site-11ty/feed/feed.xml" type="application/atom+xml" title="Tom Hiskey">
@@ -48,22 +48,38 @@
         <div></div>
         <div>
 🗓 <div class="date">30 Dec 2019</div>
-<p>I've been painfully aware for some time that some of my technical knowledge is lacking. Things like how to build a website (without using Wordpress). That sort of thing is on the outer edges of my role as a designer, but I reckon if I know more about it it would help.</p>
-<p>So in the last month or two I've found the time to work on it. Here's what I did.</p>
-<h2 id="1---come-up-with-a-project">1 - Come up with a project <a class="direct-link" href="#1---come-up-with-a-project">#</a></h2>
-<p>I decided to focus my efforts on rebuilding my personal website, is a very modest affair with just a few pages and even fewer visitors.</p>
-<h2 id="2---learn-about-css-grids">2 - Learn about CSS grids <a class="direct-link" href="#2---learn-about-css-grids">#</a></h2>
-<p>I'm comfortable enough with CSS but my knowledge is 10 years old. I'd never used <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout">CSS grids</a>.</p>
-<p>So I learned about them with things like the fun <a href="https://cssgridgarden.com/">CSS Grid Garden</a>. And I messed around with them using Glitch (<a href="https://gaudy-apostosaurus.glitch.me/blog.html">here's my test site</a>).</p>
-<p>Glitch was so easy and fun - it seems like such a great way to try things.</p>
-<h2 id="3---get-visual-studio-code-and-work-out-git-stuff">3 - Get Visual Studio Code and work out git stuff <a class="direct-link" href="#3---get-visual-studio-code-and-work-out-git-stuff">#</a></h2>
-<p>It was time to delve into the murky (for me) world of code editors and Terminal. So I got Visual Studio Code, which everyone seems to be using (I'm sure that's not true).</p>
-<h2 id="4---install-jekyll-and-run-through-the-tutorial">4 - Install Jekyll and run through the tutorial <a class="direct-link" href="#4---install-jekyll-and-run-through-the-tutorial">#</a></h2>
-<p>This</p>
-<h2 id="5---install-eleventy-and-get-the-base-blog">5 - Install Eleventy and get the base blog <a class="direct-link" href="#5---install-eleventy-and-get-the-base-blog">#</a></h2>
-<p>I understand from <a href="https://twitter.com/charlotte_dann?lang=en">Charlotte Dann</a> that Eleventy is the static site generator that the cool kids are using.</p>
-<p>So</p>
-<h2 id="6---tweak%2C-tweak%2C-tweak-and-deploy">6 - Tweak, tweak, tweak and deploy <a class="direct-link" href="#6---tweak%2C-tweak%2C-tweak-and-deploy">#</a></h2>
+<p>Static site generators, Nunjucks, Git, Jekyll, Terminal, code editors... my knowledge of this sort of thing has been lacking. I thought I'd be a better designer if I knew about it, so I decided to rebuild my website (formerly in Wordpress) the hard way.</p>
+<h2 id="what-i-did">What I did <a class="direct-link" href="#what-i-did">#</a></h2>
+<ul>
+<li>Came up with a project to focus my efforts - rebuilding my personal website</li>
+<li>Updated my 10-year-old CSS knowledge by learning about CSS grids. <a href="https://cssgridgarden.com/">CSS Grid Garden</a> was a fun way to learn the basics, then I messed around with Glitch (<a href="https://gaudy-apostosaurus.glitch.me/blog.html">here's my test site</a>). Glitch was easy and fun.</li>
+<li>Downloaded Visual Studio Code - a popular code editor</li>
+<li>Using Terminal, <a href="https://jekyllrb.com/docs/installation/">Installed Jekyll</a>, a static site generator, and everything it needs (Ruby, etc). Jekyll seems to be the de-facto static site generator and a good place to start.</li>
+<li>Ran through all of <a href="https://jekyllrb.com/docs/step-by-step/01-setup/">this step by step Jekyll tutorial</a> to learn the basics</li>
+<li>Switched to a different static site generator - <a href="https://www.11ty.dev/">Eleventy</a> - because I understand from <a href="https://twitter.com/charlotte_dann?lang=en">Charlotte Dann</a> that it's what the cool kids are using</li>
+<li>Downloaded the <a href="https://github.com/11ty/eleventy-base-blog">Eleventy base blog</a> and began tinkering and adding content (it took a long time, but less time than I was expecting)</li>
+<li>Deployed my site to GitHub Pages, which <a href="/personal-site-11ty/posts/deploying-eleventy-to-github-pages-one-way">turned out to be quite tricky</a></li>
+</ul>
+<h2 id="the-good-stuff">The good stuff <a class="direct-link" href="#the-good-stuff">#</a></h2>
+<ul>
+<li>Glitch was fun</li>
+<li>It was hard and I came across lots of minor problems - by solving them, I learnt a lot</li>
+<li>I've ended up with a faster, better website</li>
+<li>I loved the challenge and to be doing some proper (albeit very basic) coding - it's been a lot of fun</li>
+<li>It's great to move away from Wordpress, which I've increasingly found to be slow, bloated and susceptible to hackers</li>
+</ul>
+<h2 id="the-bad-stuff">The bad stuff <a class="direct-link" href="#the-bad-stuff">#</a></h2>
+<ul>
+<li>Using a code editor / Terminal / static site generator is such a unintuitive way to build a website - probably not worth it unless you want to learn how things work under the hood or you're already working in this way</li>
+<li>There's lots to remember, e.g. every time I load the project in Visual Studio Code I had to type &quot;Eleventy --serve&quot; into Terminal</li>
+<li>Git feels like a black box that I don't yet feel comfortable enough with</li>
+<li>It was painful trying to deploy my Eleventy site to GitHub Pages (<a href="/personal-site-11ty/posts/deploying-eleventy-to-github-pages-one-way">I've written about it here</a>)</li>
+</ul>
+<p><img src="/personal-site-11ty/img/visual-studio-code.png" alt="Building my website - Visual Studio Code"><em>The murky (but fun) world of code editors and Terminal - this is what I'm looking at while I write this blog post</em></p>
+<h2 id="thing(s)-i'd-do-differently">Thing(s) I'd do differently <a class="direct-link" href="#thing(s)-i'd-do-differently">#</a></h2>
+<p>It looks like Jekyll and GitHub Pages work together seamlessly - much more so than Eleventy and GitHub Pages. So next time I'd probably stick with Jekyll, particularly as for my meagre needs there seemed to be no discernible difference between the two.</p>
+<h2 id="too-long-didn't-read">Too Long Didn't Read <a class="direct-link" href="#too-long-didn't-read">#</a></h2>
+<p>I'm glad I made the effort to rebuild my website the hard way. It was fun and I learnt a lot.</p>
 
 
 <p><a href="/personal-site-11ty/">← Home</a></p>

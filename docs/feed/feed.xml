@@ -628,22 +628,38 @@ Even better than good error messages is a careful design which prevents a proble
 		<link href="https://www.tomhiskey.co.uk/personal-site-11ty/posts/i-rebuilt-my-website-the-hard-way/"/>
 		<updated>2019-12-30T00:00:00-00:00</updated>
 		<id>https://www.tomhiskey.co.uk/personal-site-11ty/posts/i-rebuilt-my-website-the-hard-way/</id>
-		<content type="html">&lt;p&gt;I&#39;ve been painfully aware for some time that some of my technical knowledge is lacking. Things like how to build a website (without using Wordpress). That sort of thing is on the outer edges of my role as a designer, but I reckon if I know more about it it would help.&lt;/p&gt;
-&lt;p&gt;So in the last month or two I&#39;ve found the time to work on it. Here&#39;s what I did.&lt;/p&gt;
-&lt;h2 id=&quot;1---come-up-with-a-project&quot;&gt;1 - Come up with a project &lt;a class=&quot;direct-link&quot; href=&quot;#1---come-up-with-a-project&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;I decided to focus my efforts on rebuilding my personal website, is a very modest affair with just a few pages and even fewer visitors.&lt;/p&gt;
-&lt;h2 id=&quot;2---learn-about-css-grids&quot;&gt;2 - Learn about CSS grids &lt;a class=&quot;direct-link&quot; href=&quot;#2---learn-about-css-grids&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;I&#39;m comfortable enough with CSS but my knowledge is 10 years old. I&#39;d never used &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout&quot;&gt;CSS grids&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;So I learned about them with things like the fun &lt;a href=&quot;https://cssgridgarden.com/&quot;&gt;CSS Grid Garden&lt;/a&gt;. And I messed around with them using Glitch (&lt;a href=&quot;https://gaudy-apostosaurus.glitch.me/blog.html&quot;&gt;here&#39;s my test site&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;Glitch was so easy and fun - it seems like such a great way to try things.&lt;/p&gt;
-&lt;h2 id=&quot;3---get-visual-studio-code-and-work-out-git-stuff&quot;&gt;3 - Get Visual Studio Code and work out git stuff &lt;a class=&quot;direct-link&quot; href=&quot;#3---get-visual-studio-code-and-work-out-git-stuff&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;It was time to delve into the murky (for me) world of code editors and Terminal. So I got Visual Studio Code, which everyone seems to be using (I&#39;m sure that&#39;s not true).&lt;/p&gt;
-&lt;h2 id=&quot;4---install-jekyll-and-run-through-the-tutorial&quot;&gt;4 - Install Jekyll and run through the tutorial &lt;a class=&quot;direct-link&quot; href=&quot;#4---install-jekyll-and-run-through-the-tutorial&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;This&lt;/p&gt;
-&lt;h2 id=&quot;5---install-eleventy-and-get-the-base-blog&quot;&gt;5 - Install Eleventy and get the base blog &lt;a class=&quot;direct-link&quot; href=&quot;#5---install-eleventy-and-get-the-base-blog&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;I understand from &lt;a href=&quot;https://twitter.com/charlotte_dann?lang=en&quot;&gt;Charlotte Dann&lt;/a&gt; that Eleventy is the static site generator that the cool kids are using.&lt;/p&gt;
-&lt;p&gt;So&lt;/p&gt;
-&lt;h2 id=&quot;6---tweak%2C-tweak%2C-tweak-and-deploy&quot;&gt;6 - Tweak, tweak, tweak and deploy &lt;a class=&quot;direct-link&quot; href=&quot;#6---tweak%2C-tweak%2C-tweak-and-deploy&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+		<content type="html">&lt;p&gt;Static site generators, Nunjucks, Git, Jekyll, Terminal, code editors... my knowledge of this sort of thing has been lacking. I thought I&#39;d be a better designer if I knew about it, so I decided to rebuild my website (formerly in Wordpress) the hard way.&lt;/p&gt;
+&lt;h2 id=&quot;what-i-did&quot;&gt;What I did &lt;a class=&quot;direct-link&quot; href=&quot;#what-i-did&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Came up with a project to focus my efforts - rebuilding my personal website&lt;/li&gt;
+&lt;li&gt;Updated my 10-year-old CSS knowledge by learning about CSS grids. &lt;a href=&quot;https://cssgridgarden.com/&quot;&gt;CSS Grid Garden&lt;/a&gt; was a fun way to learn the basics, then I messed around with Glitch (&lt;a href=&quot;https://gaudy-apostosaurus.glitch.me/blog.html&quot;&gt;here&#39;s my test site&lt;/a&gt;). Glitch was easy and fun.&lt;/li&gt;
+&lt;li&gt;Downloaded Visual Studio Code - a popular code editor&lt;/li&gt;
+&lt;li&gt;Using Terminal, &lt;a href=&quot;https://jekyllrb.com/docs/installation/&quot;&gt;Installed Jekyll&lt;/a&gt;, a static site generator, and everything it needs (Ruby, etc). Jekyll seems to be the de-facto static site generator and a good place to start.&lt;/li&gt;
+&lt;li&gt;Ran through all of &lt;a href=&quot;https://jekyllrb.com/docs/step-by-step/01-setup/&quot;&gt;this step by step Jekyll tutorial&lt;/a&gt; to learn the basics&lt;/li&gt;
+&lt;li&gt;Switched to a different static site generator - &lt;a href=&quot;https://www.11ty.dev/&quot;&gt;Eleventy&lt;/a&gt; - because I understand from &lt;a href=&quot;https://twitter.com/charlotte_dann?lang=en&quot;&gt;Charlotte Dann&lt;/a&gt; that it&#39;s what the cool kids are using&lt;/li&gt;
+&lt;li&gt;Downloaded the &lt;a href=&quot;https://github.com/11ty/eleventy-base-blog&quot;&gt;Eleventy base blog&lt;/a&gt; and began tinkering and adding content (it took a long time, but less time than I was expecting)&lt;/li&gt;
+&lt;li&gt;Deployed my site to GitHub Pages, which &lt;a href=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/posts/deploying-eleventy-to-github-pages-one-way&quot;&gt;turned out to be quite tricky&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;the-good-stuff&quot;&gt;The good stuff &lt;a class=&quot;direct-link&quot; href=&quot;#the-good-stuff&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Glitch was fun&lt;/li&gt;
+&lt;li&gt;It was hard and I came across lots of minor problems - by solving them, I learnt a lot&lt;/li&gt;
+&lt;li&gt;I&#39;ve ended up with a faster, better website&lt;/li&gt;
+&lt;li&gt;I loved the challenge and to be doing some proper (albeit very basic) coding - it&#39;s been a lot of fun&lt;/li&gt;
+&lt;li&gt;It&#39;s great to move away from Wordpress, which I&#39;ve increasingly found to be slow, bloated and susceptible to hackers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;the-bad-stuff&quot;&gt;The bad stuff &lt;a class=&quot;direct-link&quot; href=&quot;#the-bad-stuff&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Using a code editor / Terminal / static site generator is such a unintuitive way to build a website - probably not worth it unless you want to learn how things work under the hood or you&#39;re already working in this way&lt;/li&gt;
+&lt;li&gt;There&#39;s lots to remember, e.g. every time I load the project in Visual Studio Code I had to type &amp;quot;Eleventy --serve&amp;quot; into Terminal&lt;/li&gt;
+&lt;li&gt;Git feels like a black box that I don&#39;t yet feel comfortable enough with&lt;/li&gt;
+&lt;li&gt;It was painful trying to deploy my Eleventy site to GitHub Pages (&lt;a href=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/posts/deploying-eleventy-to-github-pages-one-way&quot;&gt;I&#39;ve written about it here&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/visual-studio-code.png&quot; alt=&quot;Building my website - Visual Studio Code&quot;&gt;&lt;em&gt;The murky (but fun) world of code editors and Terminal - this is what I&#39;m looking at while I write this blog post&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;thing(s)-i&#39;d-do-differently&quot;&gt;Thing(s) I&#39;d do differently &lt;a class=&quot;direct-link&quot; href=&quot;#thing(s)-i&#39;d-do-differently&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;It looks like Jekyll and GitHub Pages work together seamlessly - much more so than Eleventy and GitHub Pages. So next time I&#39;d probably stick with Jekyll, particularly as for my meagre needs there seemed to be no discernible difference between the two.&lt;/p&gt;
+&lt;h2 id=&quot;too-long-didn&#39;t-read&quot;&gt;Too Long Didn&#39;t Read &lt;a class=&quot;direct-link&quot; href=&quot;#too-long-didn&#39;t-read&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I&#39;m glad I made the effort to rebuild my website the hard way. It was fun and I learnt a lot.&lt;/p&gt;
 </content>
 	</entry>
 	
