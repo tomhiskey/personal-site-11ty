@@ -44,6 +44,9 @@ p, ul {
 p:last-child {
   margin-bottom: 0;
 }
+li {
+  margin-bottom: 8px;
+}
 /* p,
 .tmpl-post li,
 img {
@@ -245,6 +248,15 @@ pre {
   display: none;
 }
 
+.social-icons {
+  opacity: 0.8;
+  float: right;
+}
+
+.social-icons img { 
+  margin: 0px 5px;
+}
+
 /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
 @media screen and (max-width: 750px) {
   .navbar-nav a {
@@ -391,6 +403,7 @@ footer {
   padding-top: 20px;
 }
 
+footer a { text-decoration: none;}
 /* css grids */
 
 .wrapper {

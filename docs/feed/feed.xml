@@ -4,7 +4,7 @@
 	<subtitle>Digital product designer</subtitle>
 	<link href="https://www.tomhiskey.co.uk/feed/feed.xml" rel="self"/>
 	<link href="https://www.tomhiskey.co.uk/"/>
-	<updated>2019-12-31T00:00:00-00:00</updated>
+	<updated>2019-12-29T00:00:00-00:00</updated>
 	<id>https://www.tomhiskey.co.uk/</id>
 	<author>
 		<name>Tom Hiskey</name>
@@ -624,56 +624,13 @@ Even better than good error messages is a careful design which prevents a proble
 	</entry>
 	
 	<entry>
-		<title>I rebuilt my website the hard way</title>
-		<link href="https://www.tomhiskey.co.uk/personal-site-11ty/posts/i-rebuilt-my-website-the-hard-way/"/>
-		<updated>2019-12-30T00:00:00-00:00</updated>
-		<id>https://www.tomhiskey.co.uk/personal-site-11ty/posts/i-rebuilt-my-website-the-hard-way/</id>
-		<content type="html">&lt;p&gt;Static site generators, Nunjucks, Git, Jekyll, Terminal, code editors... my knowledge of this sort of thing has been lacking. I thought I&#39;d be a better designer if I knew about it, so I decided to rebuild my website (formerly in Wordpress) the hard way.&lt;/p&gt;
-&lt;h2 id=&quot;what-i-did&quot;&gt;What I did &lt;a class=&quot;direct-link&quot; href=&quot;#what-i-did&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Came up with a project to focus my efforts - rebuilding my personal website&lt;/li&gt;
-&lt;li&gt;Updated my 10-year-old CSS knowledge by learning about CSS grids. &lt;a href=&quot;https://cssgridgarden.com/&quot;&gt;CSS Grid Garden&lt;/a&gt; was a fun way to learn the basics, then I messed around with Glitch (&lt;a href=&quot;https://gaudy-apostosaurus.glitch.me/blog.html&quot;&gt;here&#39;s my test site&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;Downloaded Visual Studio Code&lt;/li&gt;
-&lt;li&gt;Using Terminal, &lt;a href=&quot;https://jekyllrb.com/docs/installation/&quot;&gt;installed Jekyll&lt;/a&gt;, a static site generator, and everything it needs (Ruby, etc). Jekyll seems to be the de-facto static site generator and a good place to start.&lt;/li&gt;
-&lt;li&gt;Ran through all of &lt;a href=&quot;https://jekyllrb.com/docs/step-by-step/01-setup/&quot;&gt;this step by step Jekyll tutorial&lt;/a&gt; to learn the basics&lt;/li&gt;
-&lt;li&gt;Switched to a different static site generator - &lt;a href=&quot;https://www.11ty.dev/&quot;&gt;Eleventy&lt;/a&gt; - because I understand from &lt;a href=&quot;https://twitter.com/charlotte_dann?lang=en&quot;&gt;Charlotte Dann&lt;/a&gt; that it&#39;s what the cool kids are using&lt;/li&gt;
-&lt;li&gt;Downloaded the &lt;a href=&quot;https://github.com/11ty/eleventy-base-blog&quot;&gt;Eleventy base blog&lt;/a&gt; and began tinkering&lt;/li&gt;
-&lt;li&gt;Copied the source code from my Wordpress blog posts and used an online converter to change it to markdown (which is what Eleventy uses), then added the images manually&lt;/li&gt;
-&lt;li&gt;Deployed my site to GitHub Pages, which &lt;a href=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/posts/deploying-eleventy-to-github-pages-one-way&quot;&gt;turned out to be quite tricky&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;☝️ All this took time and effort.&lt;/p&gt;
-&lt;h2 id=&quot;the-good-stuff&quot;&gt;The good stuff &lt;a class=&quot;direct-link&quot; href=&quot;#the-good-stuff&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;It was hard and I came across lots of minor problems - by solving them, I learnt a lot&lt;/li&gt;
-&lt;li&gt;I loved the challenge and to be doing some proper (albeit very basic) coding - it&#39;s been a lot of fun&lt;/li&gt;
-&lt;li&gt;Glitch was easy and fun&lt;/li&gt;
-&lt;li&gt;I&#39;ve ended up with a faster, better website&lt;/li&gt;
-&lt;li&gt;It&#39;s great to move away from Wordpress, which I&#39;ve increasingly found to be slow, bloated and susceptible to hackers (not to mention it&#39;s very uncool for a designer&#39;s website)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;the-bad-stuff&quot;&gt;The bad stuff &lt;a class=&quot;direct-link&quot; href=&quot;#the-bad-stuff&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Using a code editor / Terminal / static site generator is such a unintuitive way to build a website - probably not worth it unless you want to learn how things work under the hood or you&#39;re already working in this way&lt;/li&gt;
-&lt;li&gt;There&#39;s lots to remember, e.g. every time I load the project in Visual Studio Code I had to type &amp;quot;Eleventy --serve&amp;quot; into Terminal&lt;/li&gt;
-&lt;li&gt;It&#39;s a shame I won&#39;t be able to write blog posts using my phone - I&#39;ll have to launch Visual Studio Code on my Mac every time I want to write something&lt;/li&gt;
-&lt;li&gt;Git feels like a black box that I don&#39;t yet feel comfortable enough with&lt;/li&gt;
-&lt;li&gt;It was painful trying to deploy my Eleventy site to GitHub Pages (&lt;a href=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/posts/deploying-eleventy-to-github-pages-one-way&quot;&gt;I&#39;ve written about it here&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/visual-studio-code.png&quot; alt=&quot;Building my website - Visual Studio Code&quot;&gt;&lt;em&gt;The murky (but fun) world of code editors and Terminal - this is what I&#39;m looking at while I write this blog post&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;thing(s)-i&#39;d-do-differently&quot;&gt;Thing(s) I&#39;d do differently &lt;a class=&quot;direct-link&quot; href=&quot;#thing(s)-i&#39;d-do-differently&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Eleventy and GitHub Pages don&#39;t slot together seamlessly, but it looks like &lt;a href=&quot;https://help.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll&quot;&gt;Jekyll and GitHub Pages do&lt;/a&gt;. So if I was doing it all again I&#39;d probably stick with Jekyll, particularly as for my meagre needs there seemed to be no discernible difference between that and Eleventy.&lt;/p&gt;
-&lt;h2 id=&quot;too-long-didn&#39;t-read&quot;&gt;Too Long Didn&#39;t Read &lt;a class=&quot;direct-link&quot; href=&quot;#too-long-didn&#39;t-read&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;I&#39;m glad I made the effort to rebuild my website the hard way. It was fun and I learnt a lot.&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Deploying Eleventy to GitHub Pages - one way of doing it</title>
+		<title>Deploying Eleventy to GitHub Pages - one method</title>
 		<link href="https://www.tomhiskey.co.uk/personal-site-11ty/posts/deploying-eleventy-to-github-pages-one-way/"/>
-		<updated>2019-12-31T00:00:00-00:00</updated>
+		<updated>2019-12-29T00:00:00-00:00</updated>
 		<id>https://www.tomhiskey.co.uk/personal-site-11ty/posts/deploying-eleventy-to-github-pages-one-way/</id>
 		<content type="html">&lt;p&gt;I used Eleventy to rebuild my personal website, and had a bit a headache getting it deployed to GitHub Pages.&lt;/p&gt;
 &lt;p&gt;There&#39;s not much guidance online. Jonathan Snook has written about &lt;a href=&quot;https://snook.ca/archives/servers/deploying-11ty-to-gh-pages&quot;&gt;deploying an 11ty site to GitHub Pages&lt;/a&gt; - but it felt a little daunting to me so I thought I&#39;d try and cobble together a different approach that doesn&#39;t involve using Travis CI for the build.&lt;/p&gt;
-&lt;p&gt;I&#39;m very new to all of this so I&#39;m not sure what&#39;s best, but here&#39;s how I ended up doing it - hopefully it&#39;s helpful for anyone hoping to use Eleventy and GitHub pages. I&#39;d be interested to know if I could have done it better.&lt;/p&gt;
+&lt;p&gt;I&#39;m very new to all of this so I&#39;m not sure what&#39;s best, but here&#39;s how I ended up doing it. Hopefully it&#39;s helpful for anyone hoping to use Eleventy and GitHub pages. I&#39;d be interested to know if I could have done it better.&lt;/p&gt;
 &lt;h2 id=&quot;1---build-locally-and-get-everything-on-github&quot;&gt;1 - Build locally and get everything on GitHub &lt;a class=&quot;direct-link&quot; href=&quot;#1---build-locally-and-get-everything-on-github&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Unlike Jonathan Snook&#39;s method, I built the site locally and published it to GitHub.&lt;/p&gt;
 &lt;p&gt;By default, Eleventy won&#39;t publish the local build to GitHub.&lt;/p&gt;
@@ -687,7 +644,7 @@ Even better than good error messages is a careful design which prevents a proble
 &lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/github-pages-settings.png&quot; alt=&quot;GitHub Pages settings&quot;&gt;&lt;/p&gt;
 &lt;h2 id=&quot;3---tell-github-pages-i&#39;m-not-using-jekyll&quot;&gt;3 - Tell GitHub Pages I&#39;m not using Jekyll &lt;a class=&quot;direct-link&quot; href=&quot;#3---tell-github-pages-i&#39;m-not-using-jekyll&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;GitHub Pages seemed to be getting confused that I wasn&#39;t using Jekyll (I was getting build error emails). So &lt;a href=&quot;https://help.github.com/en/github/working-with-github-pages/about-github-pages#static-site-generators&quot;&gt;as described here&lt;/a&gt; I added a blank file called .nojekyll.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/nojekyll.png&quot; alt=&quot;Adding .nojekyll file&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/nojekyll.png&quot; alt=&quot;Adding .nojekyll file&quot;&gt;&lt;em&gt;I added a file called .nojekyll in the root folder&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&quot;4---change-the-11ty-output-directory-to-%2Fdocs%2F&quot;&gt;4 - Change the 11ty output directory to /docs/ &lt;a class=&quot;direct-link&quot; href=&quot;#4---change-the-11ty-output-directory-to-%2Fdocs%2F&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Nothing was working yet because Eleventy builds sites to the _site folder by default, whereas GitHub pages was looking for the /docs folder (see #2).&lt;/p&gt;
 &lt;p&gt;So I &lt;a href=&quot;https://v0-7-1.11ty.dev/docs/config/#output-directory&quot;&gt;followed the instructions here&lt;/a&gt; to change Eleventy&#39;s output folder. This is the relevant bit in eleventy.js:&lt;/p&gt;
@@ -724,6 +681,51 @@ Even better than good error messages is a careful design which prevents a proble
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;That did the trick.&lt;/p&gt;
 &lt;p&gt;It took a lot of time and Googling to figure out. I&#39;m not at all sure if it&#39;s a sensible method but it worked for me.&lt;/p&gt;
+&lt;h2 id=&quot;too-long-didn&#39;t-read&quot;&gt;Too Long Didn&#39;t Read &lt;a class=&quot;direct-link&quot; href=&quot;#too-long-didn&#39;t-read&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;If you&#39;re trying to deploy an Eleventy site to GitHub Pages, try building it locally and fiddling about with settings.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>I rebuilt my website the hard way</title>
+		<link href="https://www.tomhiskey.co.uk/personal-site-11ty/posts/i-rebuilt-my-website-the-hard-way/"/>
+		<updated>2019-12-29T00:00:00-00:00</updated>
+		<id>https://www.tomhiskey.co.uk/personal-site-11ty/posts/i-rebuilt-my-website-the-hard-way/</id>
+		<content type="html">&lt;p&gt;Static site generators, Nunjucks, Git, Jekyll, Terminal, code editors... my knowledge of this sort of thing has been lacking. I thought I&#39;d be a better designer if I knew about it, so I decided to rebuild my website (formerly in Wordpress) the hard way.&lt;/p&gt;
+&lt;h2 id=&quot;what-i-did&quot;&gt;What I did &lt;a class=&quot;direct-link&quot; href=&quot;#what-i-did&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Came up with a project to focus my efforts - rebuilding my personal website&lt;/li&gt;
+&lt;li&gt;Updated my 10-year-old CSS knowledge by learning about CSS grids. &lt;a href=&quot;https://cssgridgarden.com/&quot;&gt;CSS Grid Garden&lt;/a&gt; was a fun way to learn the basics, then I messed around with it using Glitch (&lt;a href=&quot;https://gaudy-apostosaurus.glitch.me/blog.html&quot;&gt;here&#39;s my test site&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Downloaded Visual Studio Code&lt;/li&gt;
+&lt;li&gt;Using Terminal, I &lt;a href=&quot;https://jekyllrb.com/docs/installation/&quot;&gt;installed Jekyll&lt;/a&gt;, a static site generator, and everything it needs (Ruby, etc). Jekyll seems to be the prevalent static site generator and a good place to start.&lt;/li&gt;
+&lt;li&gt;Ran through all of &lt;a href=&quot;https://jekyllrb.com/docs/step-by-step/01-setup/&quot;&gt;this step by step Jekyll tutorial&lt;/a&gt; to learn the basics&lt;/li&gt;
+&lt;li&gt;Switched to a different static site generator - &lt;a href=&quot;https://www.11ty.dev/&quot;&gt;Eleventy&lt;/a&gt; - because I understand from &lt;a href=&quot;https://twitter.com/charlotte_dann?lang=en&quot;&gt;Charlotte Dann&lt;/a&gt; that it&#39;s what the cool kids are using&lt;/li&gt;
+&lt;li&gt;Downloaded the &lt;a href=&quot;https://github.com/11ty/eleventy-base-blog&quot;&gt;Eleventy base blog&lt;/a&gt; and began tinkering&lt;/li&gt;
+&lt;li&gt;Copied the content from my Wordpress blog posts and used an online converter to change it to markdown (which is what Eleventy uses), then added the images manually&lt;/li&gt;
+&lt;li&gt;Deployed my site to GitHub Pages, which &lt;a href=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/posts/deploying-eleventy-to-github-pages-one-way&quot;&gt;turned out to be quite tricky&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;☝️ All this took time and effort.&lt;/p&gt;
+&lt;h2 id=&quot;the-good-stuff&quot;&gt;The good stuff &lt;a class=&quot;direct-link&quot; href=&quot;#the-good-stuff&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;It was hard and I came across lots of minor problems - by solving them, I learnt a lot&lt;/li&gt;
+&lt;li&gt;I loved the challenge and to be doing some proper (albeit very basic) coding - it&#39;s been a lot of fun&lt;/li&gt;
+&lt;li&gt;Glitch was easy and fun&lt;/li&gt;
+&lt;li&gt;I&#39;ve ended up with a faster, better website&lt;/li&gt;
+&lt;li&gt;It&#39;s great to move away from Wordpress, which I&#39;ve increasingly found to be slow, bloated and susceptible to hackers (not to mention it&#39;s very uncool for a designer&#39;s website)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;the-bad-stuff&quot;&gt;The bad stuff &lt;a class=&quot;direct-link&quot; href=&quot;#the-bad-stuff&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Using a code editor / Terminal / static site generator is such a unintuitive way to build a website - probably not worth it unless you want to learn how things work under the hood or you&#39;re already working in this way&lt;/li&gt;
+&lt;li&gt;There&#39;s lots to remember, e.g. every time I load the project in Visual Studio Code I had to type &amp;quot;Eleventy --serve&amp;quot; into Terminal&lt;/li&gt;
+&lt;li&gt;It&#39;s a shame I won&#39;t be able to write blog posts using my phone - I&#39;ll have to launch Visual Studio Code on my Mac every time I want to write something&lt;/li&gt;
+&lt;li&gt;Git feels like a black box that I don&#39;t yet feel comfortable enough with&lt;/li&gt;
+&lt;li&gt;It was painful trying to deploy my Eleventy site to GitHub Pages (&lt;a href=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/posts/deploying-eleventy-to-github-pages-one-way&quot;&gt;I&#39;ve written about it here&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/img/visual-studio-code.png&quot; alt=&quot;Building my website - Visual Studio Code&quot;&gt;&lt;em&gt;The murky (but fun) world of code editors and Terminal - this is what I&#39;m looking at while I write this blog post&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;something-i&#39;d-do-differently&quot;&gt;Something I&#39;d do differently &lt;a class=&quot;direct-link&quot; href=&quot;#something-i&#39;d-do-differently&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Eleventy and GitHub Pages don&#39;t slot together seamlessly, but it looks like &lt;a href=&quot;https://help.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll&quot;&gt;Jekyll and GitHub Pages do&lt;/a&gt;. So if I was doing it all again I&#39;d probably stick with Jekyll, particularly as for my meagre needs there seemed to be no discernible difference between that and Eleventy.&lt;/p&gt;
+&lt;h2 id=&quot;too-long-didn&#39;t-read&quot;&gt;Too Long Didn&#39;t Read &lt;a class=&quot;direct-link&quot; href=&quot;#too-long-didn&#39;t-read&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I&#39;m glad I made the effort to rebuild my website the hard way. It was fun and I learnt a lot.&lt;/p&gt;
 </content>
 	</entry>
 </feed>

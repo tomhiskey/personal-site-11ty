@@ -1,7 +1,7 @@
 ---
 title: I rebuilt my website the hard way
 description: Static site generators, Nunjucks, Git, Jekyll, Terminal, code editors... my knowledge of this sort...
-date: 2019-12-30
+date: 2019-12-29
 layout: layouts/post.njk
 ---
 
@@ -10,13 +10,13 @@ Static site generators, Nunjucks, Git, Jekyll, Terminal, code editors... my know
 ## What I did
 
 * Came up with a project to focus my efforts - rebuilding my personal website
-* Updated my 10-year-old CSS knowledge by learning about CSS grids. [CSS Grid Garden](https://cssgridgarden.com/) was a fun way to learn the basics, then I messed around with Glitch ([here's my test site](https://gaudy-apostosaurus.glitch.me/blog.html)).
+* Updated my 10-year-old CSS knowledge by learning about CSS grids. [CSS Grid Garden](https://cssgridgarden.com/) was a fun way to learn the basics, then I messed around with it using Glitch ([here's my test site](https://gaudy-apostosaurus.glitch.me/blog.html)).
 * Downloaded Visual Studio Code
-* Using Terminal, [installed Jekyll](https://jekyllrb.com/docs/installation/), a static site generator, and everything it needs (Ruby, etc). Jekyll seems to be the de-facto static site generator and a good place to start. 
+* Using Terminal, I [installed Jekyll](https://jekyllrb.com/docs/installation/), a static site generator, and everything it needs (Ruby, etc). Jekyll seems to be the prevalent static site generator and a good place to start. 
 * Ran through all of [this step by step Jekyll tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/) to learn the basics
 * Switched to a different static site generator - [Eleventy](https://www.11ty.dev/) - because I understand from [Charlotte Dann](https://twitter.com/charlotte_dann?lang=en) that it's what the cool kids are using
 * Downloaded the [Eleventy base blog](https://github.com/11ty/eleventy-base-blog) and began tinkering
-* Copied the source code from my Wordpress blog posts and used an online converter to change it to markdown (which is what Eleventy uses), then added the images manually
+* Copied the content from my Wordpress blog posts and used an online converter to change it to markdown (which is what Eleventy uses), then added the images manually
 * Deployed my site to GitHub Pages, which [turned out to be quite tricky](/personal-site-11ty/posts/deploying-eleventy-to-github-pages-one-way)
 
 ☝️ All this took time and effort.
@@ -39,7 +39,7 @@ Static site generators, Nunjucks, Git, Jekyll, Terminal, code editors... my know
 
 ![Building my website - Visual Studio Code](/personal-site-11ty/img/visual-studio-code.png)<em>The murky (but fun) world of code editors and Terminal - this is what I'm looking at while I write this blog post</em>
 
-## Thing(s) I'd do differently
+## Something I'd do differently
 
 Eleventy and GitHub Pages don't slot together seamlessly, but it looks like [Jekyll and GitHub Pages do](https://help.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll). So if I was doing it all again I'd probably stick with Jekyll, particularly as for my meagre needs there seemed to be no discernible difference between that and Eleventy.
 

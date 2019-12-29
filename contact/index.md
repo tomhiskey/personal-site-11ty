@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 5
 ---
 
-Hi there! I'm Tom Hiskey, a product / UX designer living in York / London. 
+Hi there! I'm Tom Hiskey, a product / UX designer in York / London. 
 
 Feel free to drop me a line...
 

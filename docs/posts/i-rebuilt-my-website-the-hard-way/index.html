@@ -48,18 +48,18 @@
         
         <div></div>
         <div>
-🗓 <div class="date">30 Dec 2019</div>
+🗓 <div class="date">29 Dec 2019</div>
 <p>Static site generators, Nunjucks, Git, Jekyll, Terminal, code editors... my knowledge of this sort of thing has been lacking. I thought I'd be a better designer if I knew about it, so I decided to rebuild my website (formerly in Wordpress) the hard way.</p>
 <h2 id="what-i-did">What I did <a class="direct-link" href="#what-i-did">#</a></h2>
 <ul>
 <li>Came up with a project to focus my efforts - rebuilding my personal website</li>
-<li>Updated my 10-year-old CSS knowledge by learning about CSS grids. <a href="https://cssgridgarden.com/">CSS Grid Garden</a> was a fun way to learn the basics, then I messed around with Glitch (<a href="https://gaudy-apostosaurus.glitch.me/blog.html">here's my test site</a>).</li>
+<li>Updated my 10-year-old CSS knowledge by learning about CSS grids. <a href="https://cssgridgarden.com/">CSS Grid Garden</a> was a fun way to learn the basics, then I messed around with it using Glitch (<a href="https://gaudy-apostosaurus.glitch.me/blog.html">here's my test site</a>).</li>
 <li>Downloaded Visual Studio Code</li>
-<li>Using Terminal, <a href="https://jekyllrb.com/docs/installation/">installed Jekyll</a>, a static site generator, and everything it needs (Ruby, etc). Jekyll seems to be the de-facto static site generator and a good place to start.</li>
+<li>Using Terminal, I <a href="https://jekyllrb.com/docs/installation/">installed Jekyll</a>, a static site generator, and everything it needs (Ruby, etc). Jekyll seems to be the prevalent static site generator and a good place to start.</li>
 <li>Ran through all of <a href="https://jekyllrb.com/docs/step-by-step/01-setup/">this step by step Jekyll tutorial</a> to learn the basics</li>
 <li>Switched to a different static site generator - <a href="https://www.11ty.dev/">Eleventy</a> - because I understand from <a href="https://twitter.com/charlotte_dann?lang=en">Charlotte Dann</a> that it's what the cool kids are using</li>
 <li>Downloaded the <a href="https://github.com/11ty/eleventy-base-blog">Eleventy base blog</a> and began tinkering</li>
-<li>Copied the source code from my Wordpress blog posts and used an online converter to change it to markdown (which is what Eleventy uses), then added the images manually</li>
+<li>Copied the content from my Wordpress blog posts and used an online converter to change it to markdown (which is what Eleventy uses), then added the images manually</li>
 <li>Deployed my site to GitHub Pages, which <a href="/personal-site-11ty/posts/deploying-eleventy-to-github-pages-one-way">turned out to be quite tricky</a></li>
 </ul>
 <p>☝️ All this took time and effort.</p>
@@ -80,7 +80,7 @@
 <li>It was painful trying to deploy my Eleventy site to GitHub Pages (<a href="/personal-site-11ty/posts/deploying-eleventy-to-github-pages-one-way">I've written about it here</a>)</li>
 </ul>
 <p><img src="/personal-site-11ty/img/visual-studio-code.png" alt="Building my website - Visual Studio Code"><em>The murky (but fun) world of code editors and Terminal - this is what I'm looking at while I write this blog post</em></p>
-<h2 id="thing(s)-i'd-do-differently">Thing(s) I'd do differently <a class="direct-link" href="#thing(s)-i'd-do-differently">#</a></h2>
+<h2 id="something-i'd-do-differently">Something I'd do differently <a class="direct-link" href="#something-i'd-do-differently">#</a></h2>
 <p>Eleventy and GitHub Pages don't slot together seamlessly, but it looks like <a href="https://help.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll">Jekyll and GitHub Pages do</a>. So if I was doing it all again I'd probably stick with Jekyll, particularly as for my meagre needs there seemed to be no discernible difference between that and Eleventy.</p>
 <h2 id="too-long-didn't-read">Too Long Didn't Read <a class="direct-link" href="#too-long-didn't-read">#</a></h2>
 <p>I'm glad I made the effort to rebuild my website the hard way. It was fun and I learnt a lot.</p>
@@ -94,12 +94,16 @@
       </main>
 
       <footer>
-        Tom Hiskey
+        <a href="/personal-site-11ty/">Tom Hiskey
         <script>
           document.write(new Date().getFullYear());
-        </script>
-        <div style="float: right;"><a href="http://www.twitter.com/tomhiskey" target="_blank">Twitter</a> · 
-        <a href="https://www.linkedin.com/in/tom-hiskey-79390822/" target="_blank">Linkedin</a></footer></div>
+        </script></a>
+        <div class="social-icons">
+        <a href="http://www.twitter.com/tomhiskey" target="_blank"><img src="/personal-site-11ty/img/407-twitter.svg" alt="Twitter";></a>
+        <a href="https://www.linkedin.com/in/tom-hiskey-79390822/" target="_blank"><img src="/personal-site-11ty/img/459-linkedin2.svg" alt="LinkedIn";></a>
+        <!-- <a href="http://www.twitter.com/tomhiskey" target="_blank">Twitter</a> · 
+        <a href="https://www.linkedin.com/in/tom-hiskey-79390822/" target="_blank">Linkedin</a></footer> -->
+        </div>
 
     </div>
     <!-- Current page: /personal-site-11ty/posts/i-rebuilt-my-website-the-hard-way/ -->

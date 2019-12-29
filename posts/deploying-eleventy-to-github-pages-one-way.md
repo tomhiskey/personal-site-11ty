@@ -1,7 +1,7 @@
 ---
-title: Deploying Eleventy to GitHub Pages - one way of doing it
+title: Deploying Eleventy to GitHub Pages - one method
 description: I used Eleventy to rebuild my website, and had a bit a headache getting it deployed...
-date: 2019-12-31
+date: 2019-12-29
 layout: layouts/post.njk
 ---
 
@@ -9,7 +9,7 @@ I used Eleventy to rebuild my personal website, and had a bit a headache getting
 
 There's not much guidance online. Jonathan Snook has written about [deploying an 11ty site to GitHub Pages](https://snook.ca/archives/servers/deploying-11ty-to-gh-pages) - but it felt a little daunting to me so I thought I'd try and cobble together a different approach that doesn't involve using Travis CI for the build. 
 
-I'm very new to all of this so I'm not sure what's best, but here's how I ended up doing it - hopefully it's helpful for anyone hoping to use Eleventy and GitHub pages. I'd be interested to know if I could have done it better.
+I'm very new to all of this so I'm not sure what's best, but here's how I ended up doing it. Hopefully it's helpful for anyone hoping to use Eleventy and GitHub pages. I'd be interested to know if I could have done it better.
 
 ## 1 - Build locally and get everything on GitHub
 
@@ -37,7 +37,7 @@ For the 'Source', I picked the 'docs' folder in the master branch.
 
 GitHub Pages seemed to be getting confused that I wasn't using Jekyll (I was getting build error emails). So [as described here](https://help.github.com/en/github/working-with-github-pages/about-github-pages#static-site-generators) I added a blank file called .nojekyll. 
 
-![Adding .nojekyll file](/personal-site-11ty/img/nojekyll.png)
+![Adding .nojekyll file](/personal-site-11ty/img/nojekyll.png)<em>I added a file called .nojekyll in the root folder</em>
 
 ## 4 - Change the 11ty output directory to /docs/
 
@@ -100,6 +100,9 @@ That did the trick.
 
 It took a lot of time and Googling to figure out. I'm not at all sure if it's a sensible method but it worked for me. 
 
+## Too Long Didn't Read
+
+If you're trying to deploy an Eleventy site to GitHub Pages, try building it locally and fiddling about with settings.
 
 
 
