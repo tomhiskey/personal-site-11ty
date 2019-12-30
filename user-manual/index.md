@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 4
 ---
 
-It can be hard to get to know colleagues, but it's important because it helps us all work together better and feel more comfortable and engaged at work. I'm hoping this user manual (aka a [manual of me](https://manualofme.co/)) will help my colleagues get to know me.
+It can be hard to get to know colleagues, but it's important because it helps us work together better and feel more comfortable and engaged. I'm hoping this user manual (aka a [manual of me](https://manualofme.co/)) will help my colleagues get to know me.
 
 I've been inspired to write one by the likes of [Dan](https://medium.com/@dasbarrett/a-user-manual-for-dan-d0a285874f72), [Cassie](https://medium.com/@cassierobinson/a-user-manual-for-me-d3a851fbc694) and [Richard](https://medium.com/@mcleanonline/helping-other-people-get-to-know-you-aa2dbff5c0f8). 
 
@@ -21,7 +21,7 @@ I've been inspired to write one by the likes of [Dan](https://medium.com/@dasbar
 * Usually I start and finish bang on time
 * But I like a degree of flexibility - I'll sometimes pop out for a haircut or finish a few minutes early for dinner
 * I'm not at my best before 10am or after 5pm - I prefer to avoid meetings during these times
-* I **never** read or respond to messages when I'm not working (and it drives me nuts when other people do)
+* I **never** read or respond to messages when I'm not working (and I dislike it when others do)
 ## The best ways to communicate with me
 * As a remote worker, the main thing is simply that we _do_ communicate, so I like to make it as easy as possible
 * Slack is usually best for anything short and sweet
