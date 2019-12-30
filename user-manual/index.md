@@ -27,7 +27,7 @@ I've been inspired to write one by the likes of [Dan](https://medium.com/@dasbar
 * Slack is usually best for anything short and sweet
 * In person or webcam is better for anything longer or in need of explanation
 * I'm happy to have impromptu conversations - interrupt me any time
-* I get frustrated by rambling chats from people who haven't thought through what they want to discuss
+* I don't like rambling chats - in a work context, I prefer keeping things to the point (that said, I'm happy to be a sounding board)
 * I like agreeing outcomes and actions
 ## The ways I like to receive feedback
 * Regularly, openly and honestly - I firmly believe the more a team normalises regular, open feedback the better
@@ -36,19 +36,19 @@ I've been inspired to write one by the likes of [Dan](https://medium.com/@dasbar
 ## Things I need
 * Purpose and meaningful problems to solve
 * Trust and responsibility
-* Collaboration
+* Collaboration - I’m a firm believer that we get better outcomes by bringing others along on the journey
 * Frankness, openness and honest criticism
 * Kindness, praise and encouragement
 * Goals
 * Focused, purposeful meetings
 ## Things I struggle with
 * People who aren't culturally aligned with me - I find it tiring and I get defensive (which is something I dislike about myself)
-* Loud voices, dictators and people who say 'I strongly believe'
+* Loud voices and dictators
 * People who don't value understanding the problem, defining needs or doing research
 * Waffling, unfocused meetings and workshops 
 * Gossip and politics
 ## Things I love
-* Leading, managing and hiring - I find it wonderful helping others be their best selves at work
+* Leading, managing and hiring - it's wonderful helping others be their best selves at work
 * Input from others in the design process - I'm not egotistical or precious and I see my role as getting the best outcomes, which means it doesn't have to be me coming up with all the ideas
 * Working as part of a multi-talented, creative, engaged team 
 * Empathetic, emotionally-intelligent people who put customers first
@@ -58,6 +58,6 @@ I've been inspired to write one by the likes of [Dan](https://medium.com/@dasbar
 * I suffer from imposter syndrome which I use as motivation to learn
 * I prefer solving user problems than selling stuff
 * I'm happiest when I [bring my whole self to work](https://www.youtube.com/watch?v=bd2WKQWG_Dg) - i.e. I can be myself
-
-
+* I think I'm on the border between extrovert and introvert
+* When I took a Myers Briggs test in 2018 I came out as [ENJF](https://www.16personalities.com/enfj-personality).
 

@@ -16,7 +16,7 @@
 html,
 body {
   padding: 0;
-  margin: 0.5em !important;
+  margin: 0.6em !important;
   color: var(--darkgray);
   background-color: var(--offwhite);
   font-family: "Open Sans", Helvetica, Arial, sans-serif,
@@ -127,6 +127,7 @@ pre,
 code {
   font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
   line-height: 1.5;
+  white-space: normal; /* I added this */
 }
 pre {
   font-size: 14px;
@@ -283,6 +284,7 @@ pre {
     display: block;
     text-align: right;
   }
+  .title { padding-top: 6px !important; } /* to hackily fix title alignment issue on small screens */
 }
 
 .navbar-brand {
