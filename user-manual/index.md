@@ -21,7 +21,7 @@ I've been inspired to write one by the likes of [Dan](https://medium.com/@dasbar
 * Usually I start and finish bang on time
 * But I like a degree of flexibility - I'll sometimes pop out for a haircut or finish a few minutes early for dinner
 * I'm not at my best before 10am or after 5pm - I prefer to avoid meetings during these times
-* I **never** read or respond to messages when I'm not working (and I dislike it when others do)
+* I never read or respond to messages when I'm not working (and I dislike it when others do)
 ## The best ways to communicate with me
 * As a remote worker, the main thing is simply that we _do_ communicate, so I like to make it as easy as possible
 * Slack is usually best for anything short and sweet
