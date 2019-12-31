@@ -20,7 +20,7 @@ Using Apple’s native Mail application on my Macbook, I searched for the out-of
 
 All good so far, and one final action for me to take:
 
-![The offending window in MacMail - poor error prevention](/personal-site-11ty/img/Mac-Mail.png)<em>The offending window in MacMail – poor error prevention</em>
+![The offending window in MacMail - poor error prevention](/img/Mac-Mail.png)<em>The offending window in MacMail – poor error prevention</em>
 
 Sure, I was in a bit of a hurry to log off and go on holiday, but of course the choice was obvious – I clicked the welcoming blue button.
 
@@ -48,7 +48,7 @@ Even if it had to be possible (which it didn’t), it was far too easy for me to
 
 There’s plenty of research about [how little people read online](https://www.nngroup.com/articles/how-little-do-users-read/), and the impact and [psychology of colours](https://www.paulolyslager.com/call-to-action-buttons-psychology-color/). So, 100% scientifically, this is what my brain processed when I saw that confirmation window:
  
-![UX - how the brain processes colours and text](/personal-site-11ty/img/Mac-Mail-blurred-JPEG.jpg)<em>Scientifically, what my brain processed</em>
+![UX - how the brain processes colours and text](/img/Mac-Mail-blurred-JPEG.jpg)<em>Scientifically, what my brain processed</em>
 
 Putting aside the issue that this result shouldn’t have been possible in the first place, there are options which might reduce the likelihood of errors.
 

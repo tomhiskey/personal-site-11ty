@@ -37,7 +37,7 @@ Static site generators, Nunjucks, Git, Jekyll, Terminal, code editors... my know
 * Git feels like a black box that I don't yet feel comfortable enough with
 * It was painful trying to deploy my Eleventy site to GitHub Pages ([I've written about it here](/personal-site-11ty/posts/deploying-eleventy-to-github-pages-one-way))
 
-![Building my website - Visual Studio Code](/personal-site-11ty/img/visual-studio-code.png)<em>The murky (but fun) world of code editors and Terminal - this is what I'm looking at while I write this blog post</em>
+![Building my website - Visual Studio Code](/img/visual-studio-code.png)<em>The murky (but fun) world of code editors and Terminal - this is what I'm looking at while I write this blog post</em>
 
 ## Something I'd do differently
 

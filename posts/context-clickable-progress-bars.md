@@ -14,7 +14,7 @@ The two portals (which I did not help to build) are similar in function. The two
 
 Both contain clickable progress bars, not too dissimilar to the following (though in this case this is just a mockup – not actually clickable):
 
-![Progress bars 2](/personal-site-11ty/img/Progress-bars-2.png)
+![Progress bars 2](/img/Progress-bars-2.png)
 
 The progress bars link to a more detailed breakdown of information.
 
@@ -36,7 +36,7 @@ As a result, partners do not intuitively understand that the bars are clickable.
 
 Knowing that partners (portal 2) struggle with the bars, and not wanting to risk the same with even a minority of customers (portal 1), my solution was to add a text link next to the bars, much like the following:
 
-![Progress bars 1](/personal-site-11ty/img/Progress-bars-1.png)
+![Progress bars 1](/img/Progress-bars-1.png)
 
 Users intuitively understand that clicking the link will reveal further details. (Hover effects aren’t enough: the user may not think to hover over the bars, and they are inadequate for tablets and mobiles.)
  
