@@ -726,7 +726,7 @@ Even better than good error messages is a careful design which prevents a proble
 &lt;li&gt;There&#39;s lots to remember, e.g. every time I load the project in Visual Studio Code I had to type &amp;quot;Eleventy --serve&amp;quot; into Terminal&lt;/li&gt;
 &lt;li&gt;It&#39;s a shame I won&#39;t be able to write blog posts using my phone - I&#39;ll have to launch Visual Studio Code on my Mac every time I want to write something&lt;/li&gt;
 &lt;li&gt;Git feels like a black box that I don&#39;t yet feel comfortable enough with&lt;/li&gt;
-&lt;li&gt;It was painful trying to deploy my Eleventy site to GitHub Pages (&lt;a href=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/posts/deploying-eleventy-to-github-pages-one-way&quot;&gt;I&#39;ve written about it here&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;It was painful trying to deploy my Eleventy site to GitHub Pages (&lt;a href=&quot;https://www.tomhiskey.co.uk/posts/deploying-eleventy-to-github-pages-one-way&quot;&gt;I&#39;ve written about it here&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/visual-studio-code.png&quot; alt=&quot;Building my website - Visual Studio Code&quot;&gt;&lt;em&gt;The murky (but fun) world of code editors and Terminal - this is what I&#39;m looking at while I write this blog post&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&quot;something-i&#39;d-do-differently&quot;&gt;Something I&#39;d do differently &lt;a class=&quot;direct-link&quot; href=&quot;#something-i&#39;d-do-differently&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;

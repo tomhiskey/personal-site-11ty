@@ -38,7 +38,7 @@ Static site generators, Nunjucks, Git, Jekyll, Terminal, code editors... my know
 * There's lots to remember, e.g. every time I load the project in Visual Studio Code I had to type "Eleventy --serve" into Terminal
 * It's a shame I won't be able to write blog posts using my phone - I'll have to launch Visual Studio Code on my Mac every time I want to write something
 * Git feels like a black box that I don't yet feel comfortable enough with
-* It was painful trying to deploy my Eleventy site to GitHub Pages ([I've written about it here](/personal-site-11ty/posts/deploying-eleventy-to-github-pages-one-way))
+* It was painful trying to deploy my Eleventy site to GitHub Pages ([I've written about it here](/posts/deploying-eleventy-to-github-pages-one-way))
 
 ![Building my website - Visual Studio Code](/img/visual-studio-code.png)<em>The murky (but fun) world of code editors and Terminal - this is what I'm looking at while I write this blog post</em>
 
