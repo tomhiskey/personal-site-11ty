@@ -45,7 +45,6 @@ I've been inspired to write one by the likes of [Dan](https://medium.com/@dasbar
 * People who aren't culturally aligned with me - I find it tiring and I get defensive (which is something I dislike about myself)
 * Loud voices and dictators
 * People who don't value understanding the problem, defining needs or doing research
-* Waffling, unfocused meetings and workshops 
 * Gossip and politics
 ## Things I love
 * Leading, managing and hiring - it's wonderful helping others be their best selves at work
