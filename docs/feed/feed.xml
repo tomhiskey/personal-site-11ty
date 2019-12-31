@@ -719,6 +719,7 @@ Even better than good error messages is a careful design which prevents a proble
 &lt;li&gt;I&#39;ve ended up with a faster, better website&lt;/li&gt;
 &lt;li&gt;It&#39;s great to move away from Wordpress, which I&#39;ve increasingly found to be slow, bloated and susceptible to hackers (not to mention it&#39;s very uncool for a designer&#39;s website)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/google-speed-test-wordpress-vs-static-site.jpg&quot; alt=&quot;Website speed test - Wordpress vs Eleventy static site&quot;&gt;&lt;em&gt;Woah, that&#39;s quick. Google speed test on my site before (left, using a custom installation of Wordpress on a shared server) and after (right, static site built with Eleventy on GitHub Pages) &lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&quot;the-bad-stuff&quot;&gt;The bad stuff &lt;a class=&quot;direct-link&quot; href=&quot;#the-bad-stuff&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Using a code editor / Terminal / static site generator is such a unintuitive way to build a website - probably not worth it unless you want to learn how things work under the hood or you&#39;re already working in this way&lt;/li&gt;

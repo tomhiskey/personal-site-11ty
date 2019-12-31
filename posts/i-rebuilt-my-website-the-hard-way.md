@@ -30,6 +30,8 @@ Static site generators, Nunjucks, Git, Jekyll, Terminal, code editors... my know
 * I've ended up with a faster, better website 
 * It's great to move away from Wordpress, which I've increasingly found to be slow, bloated and susceptible to hackers (not to mention it's very uncool for a designer's website)
 
+![Website speed test - Wordpress vs Eleventy static site](/img/google-speed-test-wordpress-vs-static-site.jpg)<em>Woah, that's quick. Google speed test on my site before (left, using a custom installation of Wordpress on a shared server) and after (right, static site built with Eleventy on GitHub Pages) </em>
+
 ## The bad stuff
 
 * Using a code editor / Terminal / static site generator is such a unintuitive way to build a website - probably not worth it unless you want to learn how things work under the hood or you're already working in this way
