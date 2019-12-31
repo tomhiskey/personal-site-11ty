@@ -1,7 +1,7 @@
 ---
 title: I rebuilt my website the hard way
 description: Static site generators, Nunjucks, Git, Jekyll, Terminal, code editors... my knowledge of this sort...
-date: 2019-12-29
+date: 2019-12-31
 layout: layouts/post.njk
 ---
 
@@ -18,6 +18,7 @@ Static site generators, Nunjucks, Git, Jekyll, Terminal, code editors... my know
 * Downloaded the [Eleventy base blog](https://github.com/11ty/eleventy-base-blog) and began tinkering
 * Copied the content from my Wordpress blog posts and used an online converter to change it to markdown (which is what Eleventy uses), then added the images manually
 * Deployed my site to GitHub Pages, which [turned out to be quite tricky](/personal-site-11ty/posts/deploying-eleventy-to-github-pages-one-way)
+* Pointed tomhiskey.co.uk to my GitHub Pages site
 
 ☝️ All this took time and effort.
 

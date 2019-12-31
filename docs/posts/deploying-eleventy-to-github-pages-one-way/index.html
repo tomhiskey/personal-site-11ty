@@ -48,9 +48,9 @@
         
         <div></div>
         <div>
-🗓 <div class="date">29 Dec 2019</div>
+🗓 <div class="date">31 Dec 2019</div>
 <p>I used Eleventy to rebuild my personal website, and had a bit a headache getting it deployed to GitHub Pages.</p>
-<p>There's not much guidance online. Jonathan Snook has written about <a href="https://snook.ca/archives/servers/deploying-11ty-to-gh-pages">deploying an 11ty site to GitHub Pages</a> - but it felt a little daunting to me so I thought I'd try and cobble together a different approach that doesn't involve using Travis CI for the build.</p>
+<p>There's not much guidance online. The best seems to be the article that <a href="https://snook.ca/archives/servers/deploying-11ty-to-gh-pages">Jonathan Snook has written about deploying an 11ty site to GitHub Pages</a>. But rightly or wrongly I felt a little daunted about using Travis CI for the build, and I believe I'd have to pay for it after a while. So I thought I'd try and cobble together something different.</p>
 <p>I'm very new to all of this so I'm not sure what's best, but here's how I ended up doing it. Hopefully it's helpful for anyone hoping to use Eleventy and GitHub pages. I'd be interested to know if I could have done it better.</p>
 <h2 id="1---build-locally-and-get-everything-on-github">1 - Build locally and get everything on GitHub <a class="direct-link" href="#1---build-locally-and-get-everything-on-github">#</a></h2>
 <p>Unlike Jonathan Snook's method, I built the site locally and published it to GitHub.</p>
@@ -77,6 +77,7 @@
     }
 </code></pre>
 <h2 id="5---change-the-site-prefix">5 - Change the site prefix <a class="direct-link" href="#5---change-the-site-prefix">#</a></h2>
+<p><Em>Note - I undid this later! See #7 </em></p>
 <p>Once I'd pushed everything to GitHub, the site appeared on GitHub Pages! But it looked like this:</p>
 <p><img src="/img/eleventy-github-pages-site-prefix.png" alt="Adding .nojekyll file"></p>
 <p>Links to my CSS, my .js file and images were broken.</p>
@@ -84,7 +85,8 @@
 <pre><code>    pathPrefix: &quot;/personal-site-11ty/&quot;,  
     // I un-commented this and updated it to try and make github pages work
 </code></pre>
-<h2 id="5---change-the-path-for-images">5 - Change the path for images <a class="direct-link" href="#5---change-the-path-for-images">#</a></h2>
+<h2 id="6---change-the-path-for-images">6 - Change the path for images <a class="direct-link" href="#6---change-the-path-for-images">#</a></h2>
+<p><Em>Note - I undid this later! See #7 </em></p>
 <p>That fixed a lot, but not my .js file or images.</p>
 <p>So I headed to base.njk and found the reference to the .js file. I added the URL prefix manually.</p>
 <p>I.e. I changed this:</p>
@@ -100,10 +102,13 @@
 <p>and replaced them with this:</p>
 <pre><code>/img/
 </code></pre>
-<p>That did the trick.</p>
-<p>It took a lot of time and Googling to figure out. I'm not at all sure if it's a sensible method but it worked for me.</p>
+<h2 id="7---create-a-custom-domain-and-undo-%235-and-%236">7 - Create a custom domain and UNDO #5 and #6 <a class="direct-link" href="#7---create-a-custom-domain-and-undo-%235-and-%236">#</a></h2>
+<p>I pointed my domain (<a href="http://tomhiskey.co.uk">tomhiskey.co.uk</a>) to my GitHub Page <a href="https://help.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site">following instructions here</a>.</p>
+<p>Once it was live (which only took a few seconds), all the CSS and images were broken again. So I ended up undoing everthing I'd done at #5 and #6.</p>
+<p>So if you're using a custom domain, they seem to be unnecessary steps.</p>
+<p>All this took a lot of time and Googling to figure out. I'm not sure if it's a sensible method but it worked for me.</p>
 <h2 id="too-long-didn't-read">Too Long Didn't Read <a class="direct-link" href="#too-long-didn't-read">#</a></h2>
-<p>If you're trying to deploy an Eleventy site to GitHub Pages, try building it locally and fiddling about with settings.</p>
+<p>If you're trying to deploy an Eleventy site to GitHub Pages, one option is to build it locally and fiddle about with settings.</p>
 
 
 <p><a href="/">← Home</a></p>

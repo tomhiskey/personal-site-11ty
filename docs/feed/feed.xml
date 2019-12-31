@@ -4,7 +4,7 @@
 	<subtitle>Digital product designer</subtitle>
 	<link href="https://www.tomhiskey.co.uk/feed/feed.xml" rel="self"/>
 	<link href="https://www.tomhiskey.co.uk/"/>
-	<updated>2019-12-29T00:00:00-00:00</updated>
+	<updated>2019-12-31T00:00:00-00:00</updated>
 	<id>https://www.tomhiskey.co.uk/</id>
 	<author>
 		<name>Tom Hiskey</name>
@@ -626,10 +626,10 @@ Even better than good error messages is a careful design which prevents a proble
 	<entry>
 		<title>Deploying Eleventy to GitHub Pages - one method</title>
 		<link href="https://www.tomhiskey.co.uk/posts/deploying-eleventy-to-github-pages-one-way/"/>
-		<updated>2019-12-29T00:00:00-00:00</updated>
+		<updated>2019-12-31T00:00:00-00:00</updated>
 		<id>https://www.tomhiskey.co.uk/posts/deploying-eleventy-to-github-pages-one-way/</id>
 		<content type="html">&lt;p&gt;I used Eleventy to rebuild my personal website, and had a bit a headache getting it deployed to GitHub Pages.&lt;/p&gt;
-&lt;p&gt;There&#39;s not much guidance online. Jonathan Snook has written about &lt;a href=&quot;https://snook.ca/archives/servers/deploying-11ty-to-gh-pages&quot;&gt;deploying an 11ty site to GitHub Pages&lt;/a&gt; - but it felt a little daunting to me so I thought I&#39;d try and cobble together a different approach that doesn&#39;t involve using Travis CI for the build.&lt;/p&gt;
+&lt;p&gt;There&#39;s not much guidance online. The best seems to be the article that &lt;a href=&quot;https://snook.ca/archives/servers/deploying-11ty-to-gh-pages&quot;&gt;Jonathan Snook has written about deploying an 11ty site to GitHub Pages&lt;/a&gt;. But rightly or wrongly I felt a little daunted about using Travis CI for the build, and I believe I&#39;d have to pay for it after a while. So I thought I&#39;d try and cobble together something different.&lt;/p&gt;
 &lt;p&gt;I&#39;m very new to all of this so I&#39;m not sure what&#39;s best, but here&#39;s how I ended up doing it. Hopefully it&#39;s helpful for anyone hoping to use Eleventy and GitHub pages. I&#39;d be interested to know if I could have done it better.&lt;/p&gt;
 &lt;h2 id=&quot;1---build-locally-and-get-everything-on-github&quot;&gt;1 - Build locally and get everything on GitHub &lt;a class=&quot;direct-link&quot; href=&quot;#1---build-locally-and-get-everything-on-github&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Unlike Jonathan Snook&#39;s method, I built the site locally and published it to GitHub.&lt;/p&gt;
@@ -656,6 +656,7 @@ Even better than good error messages is a careful design which prevents a proble
     }
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&quot;5---change-the-site-prefix&quot;&gt;5 - Change the site prefix &lt;a class=&quot;direct-link&quot; href=&quot;#5---change-the-site-prefix&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;Em&gt;Note - I undid this later! See #7 &lt;/Em&gt;&lt;/p&gt;
 &lt;p&gt;Once I&#39;d pushed everything to GitHub, the site appeared on GitHub Pages! But it looked like this:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://www.tomhiskey.co.uk/img/eleventy-github-pages-site-prefix.png&quot; alt=&quot;Adding .nojekyll file&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Links to my CSS, my .js file and images were broken.&lt;/p&gt;
@@ -663,7 +664,8 @@ Even better than good error messages is a careful design which prevents a proble
 &lt;pre&gt;&lt;code&gt;    pathPrefix: &amp;quot;/personal-site-11ty/&amp;quot;,  
     // I un-commented this and updated it to try and make github pages work
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&quot;5---change-the-path-for-images&quot;&gt;5 - Change the path for images &lt;a class=&quot;direct-link&quot; href=&quot;#5---change-the-path-for-images&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;6---change-the-path-for-images&quot;&gt;6 - Change the path for images &lt;a class=&quot;direct-link&quot; href=&quot;#6---change-the-path-for-images&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;Em&gt;Note - I undid this later! See #7 &lt;/Em&gt;&lt;/p&gt;
 &lt;p&gt;That fixed a lot, but not my .js file or images.&lt;/p&gt;
 &lt;p&gt;So I headed to base.njk and found the reference to the .js file. I added the URL prefix manually.&lt;/p&gt;
 &lt;p&gt;I.e. I changed this:&lt;/p&gt;
@@ -679,17 +681,20 @@ Even better than good error messages is a careful design which prevents a proble
 &lt;p&gt;and replaced them with this:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;/img/
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;That did the trick.&lt;/p&gt;
-&lt;p&gt;It took a lot of time and Googling to figure out. I&#39;m not at all sure if it&#39;s a sensible method but it worked for me.&lt;/p&gt;
+&lt;h2 id=&quot;7---create-a-custom-domain-and-undo-%235-and-%236&quot;&gt;7 - Create a custom domain and UNDO #5 and #6 &lt;a class=&quot;direct-link&quot; href=&quot;#7---create-a-custom-domain-and-undo-%235-and-%236&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I pointed my domain (&lt;a href=&quot;http://tomhiskey.co.uk/&quot;&gt;tomhiskey.co.uk&lt;/a&gt;) to my GitHub Page &lt;a href=&quot;https://help.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site&quot;&gt;following instructions here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Once it was live (which only took a few seconds), all the CSS and images were broken again. So I ended up undoing everthing I&#39;d done at #5 and #6.&lt;/p&gt;
+&lt;p&gt;So if you&#39;re using a custom domain, they seem to be unnecessary steps.&lt;/p&gt;
+&lt;p&gt;All this took a lot of time and Googling to figure out. I&#39;m not sure if it&#39;s a sensible method but it worked for me.&lt;/p&gt;
 &lt;h2 id=&quot;too-long-didn&#39;t-read&quot;&gt;Too Long Didn&#39;t Read &lt;a class=&quot;direct-link&quot; href=&quot;#too-long-didn&#39;t-read&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;If you&#39;re trying to deploy an Eleventy site to GitHub Pages, try building it locally and fiddling about with settings.&lt;/p&gt;
+&lt;p&gt;If you&#39;re trying to deploy an Eleventy site to GitHub Pages, one option is to build it locally and fiddle about with settings.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title>I rebuilt my website the hard way</title>
 		<link href="https://www.tomhiskey.co.uk/posts/i-rebuilt-my-website-the-hard-way/"/>
-		<updated>2019-12-29T00:00:00-00:00</updated>
+		<updated>2019-12-31T00:00:00-00:00</updated>
 		<id>https://www.tomhiskey.co.uk/posts/i-rebuilt-my-website-the-hard-way/</id>
 		<content type="html">&lt;p&gt;Static site generators, Nunjucks, Git, Jekyll, Terminal, code editors... my knowledge of this sort of thing has been lacking. I thought I&#39;d be a better designer if I knew about it, so I decided to rebuild my website (formerly in Wordpress) the hard way.&lt;/p&gt;
 &lt;h2 id=&quot;what-i-did&quot;&gt;What I did &lt;a class=&quot;direct-link&quot; href=&quot;#what-i-did&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
@@ -703,6 +708,7 @@ Even better than good error messages is a careful design which prevents a proble
 &lt;li&gt;Downloaded the &lt;a href=&quot;https://github.com/11ty/eleventy-base-blog&quot;&gt;Eleventy base blog&lt;/a&gt; and began tinkering&lt;/li&gt;
 &lt;li&gt;Copied the content from my Wordpress blog posts and used an online converter to change it to markdown (which is what Eleventy uses), then added the images manually&lt;/li&gt;
 &lt;li&gt;Deployed my site to GitHub Pages, which &lt;a href=&quot;https://www.tomhiskey.co.uk/personal-site-11ty/posts/deploying-eleventy-to-github-pages-one-way&quot;&gt;turned out to be quite tricky&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Pointed &lt;a href=&quot;http://tomhiskey.co.uk/&quot;&gt;tomhiskey.co.uk&lt;/a&gt; to my GitHub Pages site&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;☝️ All this took time and effort.&lt;/p&gt;
 &lt;h2 id=&quot;the-good-stuff&quot;&gt;The good stuff &lt;a class=&quot;direct-link&quot; href=&quot;#the-good-stuff&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;

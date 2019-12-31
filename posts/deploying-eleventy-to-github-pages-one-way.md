@@ -1,13 +1,13 @@
 ---
 title: Deploying Eleventy to GitHub Pages - one method
 description: I used Eleventy to rebuild my website, and had a bit a headache getting it deployed...
-date: 2019-12-29
+date: 2019-12-31
 layout: layouts/post.njk
 ---
 
 I used Eleventy to rebuild my personal website, and had a bit a headache getting it deployed to GitHub Pages. 
 
-There's not much guidance online. Jonathan Snook has written about [deploying an 11ty site to GitHub Pages](https://snook.ca/archives/servers/deploying-11ty-to-gh-pages) - but it felt a little daunting to me so I thought I'd try and cobble together a different approach that doesn't involve using Travis CI for the build. 
+There's not much guidance online. The best seems to be the article that [Jonathan Snook has written about deploying an 11ty site to GitHub Pages](https://snook.ca/archives/servers/deploying-11ty-to-gh-pages). But rightly or wrongly I felt a little daunted about using Travis CI for the build, and I believe I'd have to pay for it after a while. So I thought I'd try and cobble together something different.
 
 I'm very new to all of this so I'm not sure what's best, but here's how I ended up doing it. Hopefully it's helpful for anyone hoping to use Eleventy and GitHub pages. I'd be interested to know if I could have done it better.
 
@@ -56,6 +56,8 @@ dir: {
 
 ## 5 - Change the site prefix
 
+<Em>Note - I undid this later! See #7 </em>
+
 Once I'd pushed everything to GitHub, the site appeared on GitHub Pages! But it looked like this:
 
 ![Adding .nojekyll file](/img/eleventy-github-pages-site-prefix.png)
@@ -69,7 +71,9 @@ So [as described here](https://v0-7-1.11ty.dev/docs/config/#deploy-to-a-subdirec
     // I un-commented this and updated it to try and make github pages work
 ```
 
-## 5 - Change the path for images
+## 6 - Change the path for images
+
+<Em>Note - I undid this later! See #7 </em>
 
 That fixed a lot, but not my .js file or images. 
 
@@ -96,13 +100,19 @@ and replaced them with this:
 /img/
 ```
 
-That did the trick. 
+## 7 - Create a custom domain and UNDO #5 and #6
 
-It took a lot of time and Googling to figure out. I'm not at all sure if it's a sensible method but it worked for me. 
+I pointed my domain (tomhiskey.co.uk) to my GitHub Page [following instructions here](https://help.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site). 
+
+Once it was live (which only took a few seconds), all the CSS and images were broken again. So I ended up undoing everthing I'd done at #5 and #6.
+
+So if you're using a custom domain, they seem to be unnecessary steps. 
+
+All this took a lot of time and Googling to figure out. I'm not sure if it's a sensible method but it worked for me. 
 
 ## Too Long Didn't Read
 
-If you're trying to deploy an Eleventy site to GitHub Pages, try building it locally and fiddling about with settings.
+If you're trying to deploy an Eleventy site to GitHub Pages, one option is to build it locally and fiddle about with settings.
 
 
 
