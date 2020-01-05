@@ -14,7 +14,7 @@ A few 2019 highlights.
 - I became a line manager (the one thing I'd change about my career would be to have done this sooner)
 - Our new (and first) user researcher Clare has been outstanding - it's fantastic having more research at the heart of what we do 
 - Design-wise there are some things I'd do differently, but overall I feel like I did good work, engaged a lot of colleagues in the process, and we ended up in a good place
-- Farewill is doing brilliantly, and culturally it's still a good place to work - my colleagues are wonderful (mostly)
+- Farewill is doing brilliantly (we got our Series A funding and grew from about 20 to 50 people), and culturally it's still a good place to work - my colleagues are wonderful (mostly)
 - We launched our probate service in March and it's gone from strength to strength. NPS isn't the only way to measure success, but right now it's 100 (which means every single customer has given us the best possible mark).
 - I [rebuilt my website the hard way and learned a lot by doing it](/posts/i-rebuilt-my-website-the-hard-way/)
 - I started learning Javascript with Codecademy
