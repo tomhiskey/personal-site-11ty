@@ -33,8 +33,8 @@ A few 2019 highlights.
 - I bumped into Noel Fielding in a cafe and took a selfie. I still pretend he's my friend.
 
 ![Yorkshire Marathon](/img/yorkshire-marathon.jpeg)<em>Running the Yorkshire Marathon</em>
-![Marshmallows on a beach](/img/isle-of-man-beach.jpg)<em>Toasting marshmallows on an Isle of Man beach</em>
-![Lottie in Sri Lanka](/img/sri-lanka.jpg)<em>Lottie loving the Sri Lanka adventure</em>
+![Marshmallows on a beach](/img/isle-of-man-beach.JPG)<em>Toasting marshmallows on an Isle of Man beach</em>
+![Lottie in Sri Lanka](/img/sri-lanka.JPG)<em>Lottie loving the Sri Lanka adventure</em>
 
 
 ## The not so good
