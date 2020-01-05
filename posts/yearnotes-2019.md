@@ -1,6 +1,6 @@
 ---
 title: Yearnotes - 2019
-description: Having been inspired by the likes of Victor, Dan and Matt, here’s my first...
+description: A few 2019 highlights. I feel like I learned more in 2019 than the previous 2-3 years...
 date: 2020-01-05
 layout: layouts/post.njk
 ---
