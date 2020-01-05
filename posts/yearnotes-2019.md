@@ -1,6 +1,6 @@
 ---
 title: Yearnotes - 2019
-description: A few 2019 highlights. I feel like I learned more in 2019 than the previous 2-3 years...
+description: A few 2019 highlights. I feel like I learned more in 2019 than the previous 2-3 years combined, which suggests...
 date: 2020-01-05
 layout: layouts/post.njk
 ---
