@@ -5,13 +5,14 @@ date: 2020-01-05
 layout: layouts/post.njk
 ---
 
-A few 2019 highlights.
+A few 2019 highlights. 
 
 ## Good work stuff
 
 - I feel like I learned more in 2019 than the previous 2-3 years combined, which suggests I'm in the right job and stayed too long in the last one
 - I enjoyed being involved in hiring
 - I became a line manager (the one thing I'd change about my career would be to have done this sooner)
+- Our new (and first) user researcher Clare has been outstanding - it's fantastic having more research at the heart of what we do 
 - Design-wise there are some things I'd do differently, but overall I feel like I did good work, engaged a lot of colleagues in the process, and we ended up in a good place
 - Farewill is doing brilliantly, and culturally it's still a good place to work - my colleagues are wonderful (mostly)
 - We launched our probate service in March and it's gone from strength to strength. NPS isn't the only way to measure success, but right now it's 100 (which means every single customer has given us the best possible mark).
