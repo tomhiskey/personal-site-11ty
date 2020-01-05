@@ -19,7 +19,7 @@ A few 2019 highlights.
 - I started learning Javascript with Codecademy
 - Farewill continues to evolve and we're always trying new things, which means I'm learning a lot
 
-![Farewill office move](/img/farewill-office-move.jpg)<em>The Farewill team moving into the new office in March</em>
+![Farewill office move](/img/farewill-office-move.JPG)<em>The Farewill team moving into the new office in March</em>
 
 ## Good personal stuff
 
